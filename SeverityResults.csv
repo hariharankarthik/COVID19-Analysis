@@ -1,0 +1,998 @@
+resultID,studyName,riskFactorName,severity,severityLowerBound,severityUpperBound,severitypValue,severitySignificance,severityAdjusted,severityCalculated
+1dd9e87d526f,"30-day mortality in patients hospitalized with COVID-19 during the first wave of the Italian epidemic: a prospective cohort study","Smoking Status",,,,,,,
+29f84466ac27,"30-day mortality in patients hospitalized with COVID-19 during the first wave of the Italian epidemic: a prospective cohort study","Male gender",,,,,,,
+9faafec2282f,"30-day mortality in patients hospitalized with COVID-19 during the first wave of the Italian epidemic: a prospective cohort study","Overweight or obese",,,,,,,
+062a7a1e8ade,"A clinical risk score to identify patients with COVID-19 at high risk of critical care admission or death: an observational cohort study.",Hypertension,HR=1.26,0.9,1.76,0.19,"Not Significant","Not Adjusted",Extracted
+526af45b432f,"A clinical risk score to identify patients with COVID-19 at high risk of critical care admission or death: an observational cohort study.","Male gender",HR=1.41,1.01,1.96,<0.05,Significant,"Not Adjusted",Extracted
+a382f078c5cc,"A clinical risk score to identify patients with COVID-19 at high risk of critical care admission or death: an observational cohort study.","Chronic respiratory diseases",HR=1.26,0.86,1.85,0.23,"Not Significant","Not Adjusted",Extracted
+c81105bd30bd,"A clinical risk score to identify patients with COVID-19 at high risk of critical care admission or death: an observational cohort study.","Chronic kidney disease",HR=0.90,0.54,1.51,0.7,"Not Significant","Not Adjusted",Extracted
+ef5a06a88a0e,"A clinical risk score to identify patients with COVID-19 at high risk of critical care admission or death: an observational cohort study.",Diabetes,HR=1.42,1.04,1.95,<0.05,Significant,"Not Adjusted",Extracted
+02ba5eb5cc87,"A New Predictor of Disease Severity in Patients with COVID-19 in Wuhan, China",Age,"OR 1.06",1.04,1.08,<0.01,Significant,"Not Adjusted",Extracted
+b64c2295eda1,"A report from the Brescia Renal COVID Task Force on the clinical characteristics and short-term outcome of hemodialysis Q1 patients with SARS-CoV-2 infection",Diabetes,"OR 1.7",0.75,3.9,0.21,"Not Significant","Not Adjusted",Extracted
+f7955670a463,"ACP risk grade: a simple mortality index for patients with confirmed or suspected severe acute respiratory syndrome coronavirus 2 disease (COVID-19) during the early stage of outbreak in Wuhan China","Chronic liver disease","OR 0.56",0.21,1.53,0.26,"Not Significant","Not Adjusted",Calculated
+463de5a3c185,"Active smoking is associated with severity of coronavirus disease 2019 (COVID-19): An update of a meta-analysis","Smoking Status","OR 2.2",1.31,3.67,<0.05,Significant,"Not Adjusted",Extracted
+8b5100a549fe,"Active smoking is not associated with severity of coronavirus disease 2019 (COVID-19)","Smoking Status","OR 1.69",0.41,6.92,0.25,"Not Significant","Not Adjusted",Extracted
+3bc749cced6e,"Age-adjusted associations between comorbidity and outcomes of COVID-19: a review of the evidence",Diabetes,AHR=1.59,1.03,2.45,,Significant,Adjusted,Extracted
+4c686abbc3ce,"Age-adjusted associations between comorbidity and outcomes of COVID-19: a review of the evidence",Cancer,AHR=3.50,1.6,7.64,,Significant,Adjusted,Extracted
+4cbfb081a198,"Age-adjusted associations between comorbidity and outcomes of COVID-19: a review of the evidence",Hypertension,AHR=1.58,1.07,2.32,,Significant,Adjusted,Extracted
+6414fcc919df,"Age-adjusted associations between comorbidity and outcomes of COVID-19: a review of the evidence",COPD,AHR=2.68,1.42,5.05,,Significant,Adjusted,Extracted
+7be3541d1d21,"Age-adjusted associations between comorbidity and outcomes of COVID-19: a review of the evidence","Heart Disease",,,,,,,
+c7988518f7bf,"Age-adjusted associations between comorbidity and outcomes of COVID-19: a review of the evidence","Cerebrovascular disease",,,,,,,
+32161e330f66,"Anakinra for severe forms of COVID-19: a cohort study","Male gender",AHR=1.34,0.69,2.62,0.38,"Not Significant",Adjusted,Extracted
+7c4be316c13d,"Analysis of hospitalized COVID-19 patients in the Mount Sinai Health System using electronic medical records (EMR) reveals important prognostic factors for improved clinical outcomes","Ethnicity_ Hispanic vs",,,,,,,
+802a04fc5738,"Analysis of hospitalized COVID-19 patients in the Mount Sinai Health System using electronic medical records (EMR) reveals important prognostic factors for improved clinical outcomes","Race_ Black vs",,,,,,,
+8cdfc7a016aa,"Analysis of hospitalized COVID-19 patients in the Mount Sinai Health System using electronic medical records (EMR) reveals important prognostic factors for improved clinical outcomes",Hypertension,,,,,,,
+a0a9b26cd0be,"Analysis of hospitalized COVID-19 patients in the Mount Sinai Health System using electronic medical records (EMR) reveals important prognostic factors for improved clinical outcomes","Overweight or obese",,,,,,,
+a13b870cdbed,"Analysis of hospitalized COVID-19 patients in the Mount Sinai Health System using electronic medical records (EMR) reveals important prognostic factors for improved clinical outcomes","Smoking Status",,,,,,,
+a7b6c9457e44,"Analysis of hospitalized COVID-19 patients in the Mount Sinai Health System using electronic medical records (EMR) reveals important prognostic factors for improved clinical outcomes",Cancer,,,,,,,
+ca6ac61eb323,"Analysis of hospitalized COVID-19 patients in the Mount Sinai Health System using electronic medical records (EMR) reveals important prognostic factors for improved clinical outcomes",Diabetes,,,,,,,
+ed5f995e03ce,"Analysis of hospitalized COVID-19 patients in the Mount Sinai Health System using electronic medical records (EMR) reveals important prognostic factors for improved clinical outcomes","Male gender",,,,,,,
+6e627f1c1448,"Analysis of myocardial injury in patients with COVID-19 and association between concomitant cardiovascular diseases and severity of COVID-19",Age,"AOR 1.02",0.96,1.08,0.52,"Not Significant",Adjusted,Extracted
+cb7493537268,"Analysis of myocardial injury in patients with COVID-19 and association between concomitant cardiovascular diseases and severity of COVID-19",Age,"OR 1.06",1.02,1.09,<0.01,Significant,"Not Adjusted",Extracted
+8ea642752aca,"Association between ABO blood groups and clinical outcome of coronavirus disease 2019: Evidence from two cohorts","Heart Disease","OR 1.96",0.73,5.21,0.18,"Not Significant","Not Adjusted",Calculated
+adeadbf175ee,"Association between ABO blood groups and clinical outcome of coronavirus disease 2019: Evidence from two cohorts","Male gender","OR 0.74",0.31,1.78,0.5,"Not Significant","Not Adjusted",Calculated
+0c21545389ca,"Association between Cardiovascular Burden and Requirement of Intensive Care among Patients with Mild COVID-19",Hypertension,"OR 5.00",2.43,10.26,0,Significant,"Not Adjusted",Calculated
+1ccfa5bf0fa7,"Association between Cardiovascular Burden and Requirement of Intensive Care among Patients with Mild COVID-19","Heart Disease",AOR=6.43,3.21,12.88,<0.05,Significant,Adjusted,Extracted
+2c91cfcc9ca4,"Association between Cardiovascular Burden and Requirement of Intensive Care among Patients with Mild COVID-19","Male gender",OR=1.40,0.79,2.48,0.25,"Not Significant","Not Adjusted",Extracted
+33dcac4e992f,"Association between Cardiovascular Burden and Requirement of Intensive Care among Patients with Mild COVID-19",Age,AOR=0.99,0.96,1.02,0.55,"Not Significant",Adjusted,Extracted
+37a4c6945451,"Association between Cardiovascular Burden and Requirement of Intensive Care among Patients with Mild COVID-19","Heart Disease",OR=6.55,3.36,12.76,<0.05,Significant,"Not Adjusted",Extracted
+63d181c7c402,"Association between Cardiovascular Burden and Requirement of Intensive Care among Patients with Mild COVID-19","Heart Disease",AOR=2.65,1.02,6.98,<0.05,Significant,Adjusted,Extracted
+82953e23e3bb,"Association between Cardiovascular Burden and Requirement of Intensive Care among Patients with Mild COVID-19","Male gender",AOR=1.38,0.72,2.66,0.33,"Not Significant",Adjusted,Extracted
+c0fa3f8000b5,"Association between Cardiovascular Burden and Requirement of Intensive Care among Patients with Mild COVID-19",Age,AOR=0.99,0.97,1.02,0.6,"Not Significant",Adjusted,Extracted
+c631f45e8aec,"Association between Cardiovascular Burden and Requirement of Intensive Care among Patients with Mild COVID-19",Age,OR=1.01,0.98,1.03,0.6,"Not Significant","Not Adjusted",Extracted
+de12de4b1c05,"Association between Cardiovascular Burden and Requirement of Intensive Care among Patients with Mild COVID-19","Male gender",AOR=0.96,0.45,2.06,0.92,"Not Significant",Adjusted,Extracted
+e6875c2b3e44,"Association between Cardiovascular Burden and Requirement of Intensive Care among Patients with Mild COVID-19",Age,AOR=0.99,0.97,1.02,0.65,"Not Significant",Adjusted,Extracted
+ee06e150bc0a,"Association between Cardiovascular Burden and Requirement of Intensive Care among Patients with Mild COVID-19","Heart Disease",AOR=3.94,1.8,8.64,<0.05,Significant,Adjusted,Extracted
+eef507832c15,"Association between Cardiovascular Burden and Requirement of Intensive Care among Patients with Mild COVID-19","Male gender",AOR=1.28,0.7,2.36,<0.05,Significant,Adjusted,Extracted
+04a53632f7b1,"Association between comorbidities and the risk of death in patients with COVID-19: sex-specific differences","Chronic respiratory diseases",,,,,,,
+06358bc98877,"Association between comorbidities and the risk of death in patients with COVID-19: sex-specific differences",Diabetes,,,,,,,
+09ebf940f729,"Association between comorbidities and the risk of death in patients with COVID-19: sex-specific differences","Cerebrovascular disease",,,,,,,
+157c8da36124,"Association between comorbidities and the risk of death in patients with COVID-19: sex-specific differences","Chronic kidney disease",,,,,,,
+1c550511ea93,"Association between comorbidities and the risk of death in patients with COVID-19: sex-specific differences",Diabetes,,,,,,,
+358f4680cd2b,"Association between comorbidities and the risk of death in patients with COVID-19: sex-specific differences","Cerebrovascular disease",,,,,,,
+49fb2155dc6d,"Association between comorbidities and the risk of death in patients with COVID-19: sex-specific differences","Cerebrovascular disease",,,,,,,
+52b199b12a8e,"Association between comorbidities and the risk of death in patients with COVID-19: sex-specific differences","Chronic respiratory diseases",,,,,,,
+5fab71bd1f8f,"Association between comorbidities and the risk of death in patients with COVID-19: sex-specific differences",Hypertension,,,,,,,
+658264cd04d2,"Association between comorbidities and the risk of death in patients with COVID-19: sex-specific differences","Chronic kidney disease",,,,,,,
+6cfde535a51e,"Association between comorbidities and the risk of death in patients with COVID-19: sex-specific differences",Hypertension,,,,,,,
+7d0b200513ff,"Association between comorbidities and the risk of death in patients with COVID-19: sex-specific differences",Hypertension,,,,,,,
+7edf13c0ef3c,"Association between comorbidities and the risk of death in patients with COVID-19: sex-specific differences",Hypertension,,,,,,,
+809ea1c49c20,"Association between comorbidities and the risk of death in patients with COVID-19: sex-specific differences","Chronic respiratory diseases",,,,,,,
+b3eb06e0dfc6,"Association between comorbidities and the risk of death in patients with COVID-19: sex-specific differences","Chronic kidney disease",,,,,,,
+b5bcff50cdf7,"Association between comorbidities and the risk of death in patients with COVID-19: sex-specific differences",Diabetes,,,,,,,
+b6e1586790cd,"Association between comorbidities and the risk of death in patients with COVID-19: sex-specific differences","Chronic respiratory diseases",,,,,,,
+bded69a0a2c5,"Association between comorbidities and the risk of death in patients with COVID-19: sex-specific differences","Cerebrovascular disease",,,,,,,
+d27f2bc71af8,"Association between comorbidities and the risk of death in patients with COVID-19: sex-specific differences","Chronic kidney disease",,,,,,,
+e6b7457613e0,"Association between comorbidities and the risk of death in patients with COVID-19: sex-specific differences",Diabetes,,,,,,,
+43296d2af232,"Association between rRT-PCR test results upon admission and outcome in hospitalized chest CT-Positive COVID-19 patients; a provincial retrospective cohort with active follow-up","Chronic respiratory diseases",,,,,,,
+66040e9ec111,"Association between rRT-PCR test results upon admission and outcome in hospitalized chest CT-Positive COVID-19 patients; a provincial retrospective cohort with active follow-up","Male gender",,,,,,,
+788b27b7b948,"Association between rRT-PCR test results upon admission and outcome in hospitalized chest CT-Positive COVID-19 patients; a provincial retrospective cohort with active follow-up","Heart Disease",,,,,,,
+7f8bccbb5513,"Association between rRT-PCR test results upon admission and outcome in hospitalized chest CT-Positive COVID-19 patients; a provincial retrospective cohort with active follow-up",Diabetes,,,,,,,
+95386ec528e8,"Association between rRT-PCR test results upon admission and outcome in hospitalized chest CT-Positive COVID-19 patients; a provincial retrospective cohort with active follow-up",Hypertension,,,,,,,
+f3f80b112a6d,"Association between rRT-PCR test results upon admission and outcome in hospitalized chest CT-Positive COVID-19 patients; a provincial retrospective cohort with active follow-up","Immune system disorders",,,,,,,
+231cba103266,"Association of age, sex, comorbidities, and clinical symptoms with the severity and mortality of COVID-19 cases: a meta-analysis with 85 studies and 67299 cases",Hypertension,,,,,,,
+414ef6c2193b,"Association of age, sex, comorbidities, and clinical symptoms with the severity and mortality of COVID-19 cases: a meta-analysis with 85 studies and 67299 cases",Diabetes,,,,,,,
+494326e8eb94,"Association of age, sex, comorbidities, and clinical symptoms with the severity and mortality of COVID-19 cases: a meta-analysis with 85 studies and 67299 cases","Heart Disease",,,,,,,
+594ed5f61008,"Association of age, sex, comorbidities, and clinical symptoms with the severity and mortality of COVID-19 cases: a meta-analysis with 85 studies and 67299 cases","Chronic liver disease",,,,,,,
+6639db10b2fe,"Association of age, sex, comorbidities, and clinical symptoms with the severity and mortality of COVID-19 cases: a meta-analysis with 85 studies and 67299 cases","Chronic digestive disorders",,,,,,,
+6bb94866a4e5,"Association of age, sex, comorbidities, and clinical symptoms with the severity and mortality of COVID-19 cases: a meta-analysis with 85 studies and 67299 cases","Chronic respiratory diseases",,,,,,,
+6e0eff93810d,"Association of age, sex, comorbidities, and clinical symptoms with the severity and mortality of COVID-19 cases: a meta-analysis with 85 studies and 67299 cases","Male gender",,,,,,,
+84dcce6dcdbe,"Association of age, sex, comorbidities, and clinical symptoms with the severity and mortality of COVID-19 cases: a meta-analysis with 85 studies and 67299 cases","Cerebrovascular disease",,,,,,,
+991dd7e2ef0f,"Association of age, sex, comorbidities, and clinical symptoms with the severity and mortality of COVID-19 cases: a meta-analysis with 85 studies and 67299 cases",Cancer,,,,,,,
+c888f51cf959,"Association of age, sex, comorbidities, and clinical symptoms with the severity and mortality of COVID-19 cases: a meta-analysis with 85 studies and 67299 cases","Chronic kidney disease",,,,,,,
+9a190b409ac8,"Association of Cardiovascular Disease with Coronavirus Disease 2019 (COVID-19) Severity: A Meta-Analysis Association of Cardiovascular Disease with Coronavirus Disease 2019 (COVID-19) Severity: A Meta-Analysis","Heart Disease","OR 3.14",2.32,4.24,,Significant,"Not Adjusted",Extracted
+5f220582ef81,"Association of Diabetes Mellitus with Disease Severity and Prognosis in COVID-19: A Retrospective Cohort Study",Diabetes,,,,,,,
+f90c3a946bcd,"Association of Digestive Symptoms and Hospitalization in Patients with SARS-CoV-2 Infection",Diabetes,"OR 4.42",1.54,12.63,0.01,Significant,"Not Adjusted",Calculated
+ff5d11496559,"Association of Digestive Symptoms and Hospitalization in Patients with SARS-CoV-2 Infection",Hypertension,"OR 2.95",1.07,8.1,0.04,Significant,"Not Adjusted",Calculated
+2f786b6ad440,"Association of hypertension with the severity and fatality of SARS-CoV-2 infection: A meta-analysis",Hypertension,OR=2.27,1.8,2.86,,Significant,"Not Adjusted",Extracted
+0369b9a9374b,"Association of Obesity with Disease Severity among Patients with COVIDâ€19",Diabetes,AOR=1.91,0.71,5.19,0.2,"Not Significant",Adjusted,Extracted
+0ce704217100,"Association of Obesity with Disease Severity among Patients with COVIDâ€19","Overweight or obese",AOR=2.65,0.64,10.95,0.18,"Not Significant",Adjusted,Extracted
+0d6acf19c23a,"Association of Obesity with Disease Severity among Patients with COVIDâ€19","Overweight or obese",AOR=2.56,0.64,10.1,0.1,"Not Significant",Adjusted,Extracted
+0d9406bc02f2,"Association of Obesity with Disease Severity among Patients with COVIDâ€19","Race_ Black vs",AOR=0.86,0.29,2.56,0.8,"Not Significant",Adjusted,Extracted
+0da2741dd65c,"Association of Obesity with Disease Severity among Patients with COVIDâ€19","Chronic respiratory diseases",AOR=1.50,0.47,4.82,0.5,"Not Significant",Adjusted,Extracted
+1c3314fc5911,"Association of Obesity with Disease Severity among Patients with COVIDâ€19","Ethnicity_ Hispanic vs",AOR=0.56,0.19,1.58,0.27,"Not Significant",Adjusted,Extracted
+1d71312fddd6,"Association of Obesity with Disease Severity among Patients with COVIDâ€19","Heart Disease",OR=2.04,0.82,5.07,0.13,"Not Significant","Not Adjusted",Extracted
+4325edd80299,"Association of Obesity with Disease Severity among Patients with COVIDâ€19","Race_ Black vs",OR=0.93,0.34,2.54,0.89,"Not Significant","Not Adjusted",Extracted
+477ebf6be748,"Association of Obesity with Disease Severity among Patients with COVIDâ€19","Overweight or obese",OR=2.80,0.75,10.48,0.13,"Not Significant","Not Adjusted",Extracted
+4af7efc0bdc2,"Association of Obesity with Disease Severity among Patients with COVIDâ€19","Smoking Status","OR 1.16",0.5,2.69,0.74,"Not Significant","Not Adjusted",Extracted
+4c3fb04ec8f7,"Association of Obesity with Disease Severity among Patients with COVIDâ€19","Overweight or obese",AOR=6.16,1.42,26.66,<0.05,Significant,Adjusted,Extracted
+4f67c7a037e7,"Association of Obesity with Disease Severity among Patients with COVIDâ€19","Male gender",AOR=2.24,0.86,5.78,0.1,"Not Significant",Adjusted,Extracted
+6340233e1fd6,"Association of Obesity with Disease Severity among Patients with COVIDâ€19",Diabetes,OR=2.26,1.0,5.11,0.05,"Not Significant","Not Adjusted",Extracted
+688bf01a7992,"Association of Obesity with Disease Severity among Patients with COVIDâ€19","Overweight or obese",OR=3.02,0.85,10.74,0.09,"Not Significant","Not Adjusted",Extracted
+68f6b939c548,"Association of Obesity with Disease Severity among Patients with COVIDâ€19","Male gender",AOR=2.40,0.87,6.64,0.09,"Not Significant",Adjusted,Extracted
+77d03bbdbbd0,"Association of Obesity with Disease Severity among Patients with COVIDâ€19","Overweight or obese",AOR=2.27,0.59,8.83,0.24,"Not Significant",Adjusted,Extracted
+7d84ce02d4f1,"Association of Obesity with Disease Severity among Patients with COVIDâ€19",Hypertension,OR=1.64,0.71,3.75,0.25,"Not Significant","Not Adjusted",Extracted
+8496f21dd177,"Association of Obesity with Disease Severity among Patients with COVIDâ€19","Ethnicity_ Hispanic vs",AOR=0.65,0.24,1.76,0.4,"Not Significant",Adjusted,Extracted
+8e32c133f315,"Association of Obesity with Disease Severity among Patients with COVIDâ€19","Male gender",OR=1.42,0.63,3.19,0.39,"Not Significant","Not Adjusted",Extracted
+a5f92d7c93f5,"Association of Obesity with Disease Severity among Patients with COVIDâ€19","Heart Disease",AOR=1.52,0.51,4.51,0.45,"Not Significant",Adjusted,Extracted
+ade3cf5097bd,"Association of Obesity with Disease Severity among Patients with COVIDâ€19","Race_ Black vs",AOR=0.80,0.26,2.45,0.7,"Not Significant",Adjusted,Extracted
+b6972fb0157e,"Association of Obesity with Disease Severity among Patients with COVIDâ€19","Overweight or obese",AOR=2.14,0.58,7.88,0.25,"Not Significant",Adjusted,Extracted
+b70125496f3b,"Association of Obesity with Disease Severity among Patients with COVIDâ€19","Chronic respiratory diseases",OR=1.85,0.69,4.96,0.22,"Not Significant","Not Adjusted",Extracted
+d217eda0ad5a,"Association of Obesity with Disease Severity among Patients with COVIDâ€19","Overweight or obese",AOR=5.39,1.13,25.64,<0.05,Significant,Adjusted,Extracted
+dc976c8c9aef,"Association of Obesity with Disease Severity among Patients with COVIDâ€19",Hypertension,AOR=0.79,0.27,2.28,0.66,"Not Significant",Adjusted,Extracted
+e7534262a14c,"Association of Obesity with Disease Severity among Patients with COVIDâ€19","Ethnicity_ Hispanic vs",OR=0.57,0.23,1.45,0.24,"Not Significant","Not Adjusted",Extracted
+fdd77fd1932e,"Association of Obesity with Disease Severity among Patients with COVIDâ€19","Overweight or obese",OR=1.87,0.55,6.35,0.32,"Not Significant","Not Adjusted",Extracted
+124601ed13ca,"Association of the insulin resistance marker TyG index with the severity and mortality of COVID-19","Heart Disease","OR 1.99",0.7,5.66,0.2,"Not Significant","Not Adjusted",Calculated
+223134739378,"Association of the insulin resistance marker TyG index with the severity and mortality of COVID-19",Hypertension,"OR 3.32",1.68,6.57,0,Significant,"Not Adjusted",Calculated
+76d9474bd96f,"Association of the insulin resistance marker TyG index with the severity and mortality of COVID-19","Male gender","OR 2.44",1.25,4.76,0.01,Significant,"Not Adjusted",Calculated
+c27fc480be39,"Association of the insulin resistance marker TyG index with the severity and mortality of COVID-19","Chronic kidney disease","OR 1.80",0.52,6.18,0.35,"Not Significant","Not Adjusted",Calculated
+fee446a9bdee,"Association of the insulin resistance marker TyG index with the severity and mortality of COVID-19",Diabetes,"OR 2.64",1.27,5.68,0.01,Significant,"Not Adjusted",Calculated
+3ef85d158a1d,"Associations of clinical characteristics and antiviral drugs with viral RNA clearance in patients with COVID-19 in Guangzhou, China: a retrospective cohort study [medrxiv]","Smoking Status","OR 1.51",0.57,3.99,0.41,"Not Significant","Not Adjusted",Calculated
+67ea24d5cf98,"Associations of clinical characteristics and antiviral drugs with viral RNA clearance in patients with COVID-19 in Guangzhou, China: a retrospective cohort study [medrxiv]","Male gender","OR 1.69",0.89,3.21,0.11,"Not Significant","Not Adjusted",Calculated
+20b56660e259,"Asthma prolongs intubation in COVID-19",Asthma,"OR 1.24",1.0,1.5,,"Not Significant","Not Adjusted",Extracted
+73d8ac88577d,"Asthma prolongs intubation in COVID-19",Asthma,"OR 1.14",0.4,3.25,,"Not Significant","Not Adjusted",Extracted
+c180e8c97966,"Asthma prolongs intubation in COVID-19",Asthma,"OR 1.04",0.34,2.62,,"Not Significant","Not Adjusted",Extracted
+15fa712ac535,"Blood glucose is a representative of the clustered indicators of multi-organ injury for predicting mortality of COVID-19 in Wuhan China","Male gender","OR 0.89",0.33,2.36,0.81,"Not Significant","Not Adjusted",Calculated
+d62178bf081d,"Blood glucose is a representative of the clustered indicators of multi-organ injury for predicting mortality of COVID-19 in Wuhan China","Male gender","OR 2.45",0.9,6.65,0.08,"Not Significant","Not Adjusted",Calculated
+3d38828f20fd,"Cancer is associated with the severity and mortality of patients with COVID-19: a systematic review and meta-analysis",Cancer,"OR 2.84",1.75,4.62,<0.01,Significant,"Not Adjusted",Extracted
+d3cf20759362,"Cardiac injuries in patients with coronavirus disease 2019: Not to be ignored","Male gender",,,,,,,
+13878cde67c9,"Cardiovascular Disease, Drug Therapy, and Mortality in Covid-19","Race_ Black vs",,,,,,,
+1df28a5e0593,"Cardiovascular Disease, Drug Therapy, and Mortality in Covid-19",COPD,,,,,,,
+5162822a9df7,"Cardiovascular Disease, Drug Therapy, and Mortality in Covid-19","Heart Disease",,,,,,,
+7a4064b1b7d2,"Cardiovascular Disease, Drug Therapy, and Mortality in Covid-19","Smoking Status",,,,,,,
+8e34560c5134,"Cardiovascular Disease, Drug Therapy, and Mortality in Covid-19",COPD,,,,,,,
+942536478807,"Cardiovascular Disease, Drug Therapy, and Mortality in Covid-19","Heart Disease",,,,,,,
+a3cf0e097396,"Cardiovascular Disease, Drug Therapy, and Mortality in Covid-19",Hypertension,,,,,,,
+cdf2e81fa7c8,"Cardiovascular Disease, Drug Therapy, and Mortality in Covid-19","Smoking Status",,,,,,,
+f20a5e719a01,"Cardiovascular Disease, Drug Therapy, and Mortality in Covid-19","Ethnicity_ Hispanic vs",,,,,,,
+ff38090c6808,"Cardiovascular Disease, Drug Therapy, and Mortality in Covid-19",Diabetes,,,,,,,
+aadfecbaff98,"Cardiovascular Diseases and COVID-19 Mortality and Intensive Care Unit Admission: A Systematic Review and Meta-analysis","Heart Disease",,,,,,,
+dd371e83dfb2,"Cardiovascular Diseases and COVID-19 Mortality and Intensive Care Unit Admission: A Systematic Review and Meta-analysis","Heart Failure",,,,,,,
+3225b54bcf28,"Cardiovascular Diseases and COVID-19 Mortality and Intensive Care Unit Admission: A Systematic Review and Meta-analysis [medrxiv]","Heart Disease","OR 4.19",1.27,13.8,,Significant,"Not Adjusted",Extracted
+dc26755edd5f,"Cardiovascular Diseases and COVID-19 Mortality and Intensive Care Unit Admission: A Systematic Review and Meta-analysis [medrxiv]","Male gender",,,,,,,
+4744307292ee,"Case fatality risk of novel coronavirus diseases 2019 in China",Age,,,,,,,
+82408f5f31c9,"Caution on Kidney Dysfunctions of COVID-19 Patients","Chronic digestive disorders","OR 2.40",0.92,6.25,0.07,"Not Significant","Not Adjusted",Calculated
+8e5a8ef45e82,"Caution on Kidney Dysfunctions of COVID-19 Patients","Cardio- and cerebrovascular disease","OR 1.71",0.93,3.16,0.09,"Not Significant","Not Adjusted",Calculated
+de348ccfc336,"Caution on Kidney Dysfunctions of COVID-19 Patients","Chronic respiratory diseases","OR 4.18",1.79,9.78,<0.01,Significant,"Not Adjusted",Calculated
+ed28a6ea7d4d,"Caution on Kidney Dysfunctions of COVID-19 Patients","Endocrine diseases","OR 1.19",0.57,2.49,0.65,"Not Significant","Not Adjusted",Calculated
+0a4105e05338,"Cerebrovascular disease is associated with an increased disease severity in patients with Coronavirus Disease 2019 (COVID-19): A pooled analysis of published literature","Cerebrovascular disease",OR=2.55,1.18,5.51,,Significant,"Not Adjusted",Extracted
+155d550621e5,"Characteristics and clinical significance of myocardial injury in patients with severe coronavirus disease 2019","Male gender",,,,,,,
+289ce79fea6c,"Characteristics and clinical significance of myocardial injury in patients with severe coronavirus disease 2019","Male gender",,,,,,,
+2a24e7582511,"Characteristics and clinical significance of myocardial injury in patients with severe coronavirus disease 2019","Chronic kidney disease",,,,,,,
+2d927f14536f,"Characteristics and clinical significance of myocardial injury in patients with severe coronavirus disease 2019","Heart Disease",,,,,,,
+338ccce48187,"Characteristics and clinical significance of myocardial injury in patients with severe coronavirus disease 2019","Cerebrovascular disease",,,,,,,
+34f450abfd13,"Characteristics and clinical significance of myocardial injury in patients with severe coronavirus disease 2019","Chronic kidney disease",,,,,,,
+3c0a0abbd4cc,"Characteristics and clinical significance of myocardial injury in patients with severe coronavirus disease 2019",Hypertension,,,,,,,
+538820f55f1e,"Characteristics and clinical significance of myocardial injury in patients with severe coronavirus disease 2019",Hypertension,,,,,,,
+55f9000d93d3,"Characteristics and clinical significance of myocardial injury in patients with severe coronavirus disease 2019",Age,,,,,,,
+5c5de1d24e73,"Characteristics and clinical significance of myocardial injury in patients with severe coronavirus disease 2019","Heart Failure",,,,,,,
+7a27f92e84c1,"Characteristics and clinical significance of myocardial injury in patients with severe coronavirus disease 2019","Heart Failure",,,,,,,
+83e2940fcfae,"Characteristics and clinical significance of myocardial injury in patients with severe coronavirus disease 2019",Diabetes,,,,,,,
+8cbbe36553a4,"Characteristics and clinical significance of myocardial injury in patients with severe coronavirus disease 2019","Heart Disease",,,,,,,
+c0d2f84e38d5,"Characteristics and clinical significance of myocardial injury in patients with severe coronavirus disease 2019",Diabetes,,,,,,,
+d17335f6c72e,"Characteristics and clinical significance of myocardial injury in patients with severe coronavirus disease 2019","Cerebrovascular disease",,,,,,,
+fa1f461f0442,"Characteristics and clinical significance of myocardial injury in patients with severe coronavirus disease 2019",Age,,,,,,,
+04b6969df8d5,"Characteristics and outcomes of a cohort of SARS-CoV-2 patients in the Province of Reggio","Heart Failure",,,,,,,
+1b9b505bdf84,"Characteristics and outcomes of a cohort of SARS-CoV-2 patients in the Province of Reggio","Heart Disease","HR 1.3",1.0,1.7,,"Not Significant","Not Adjusted",Extracted
+215df113940e,"Characteristics and outcomes of a cohort of SARS-CoV-2 patients in the Province of Reggio","Male gender",,,,,,,
+42b8c731f526,"Characteristics and outcomes of a cohort of SARS-CoV-2 patients in the Province of Reggio","Heart Disease",,,,,,,
+7b19cfba45d6,"Characteristics and outcomes of a cohort of SARS-CoV-2 patients in the Province of Reggio",Dementia,"HR 1.2",0.9,1.8,,"Not Significant","Not Adjusted",Extracted
+885e4ebebc71,"Characteristics and outcomes of a cohort of SARS-CoV-2 patients in the Province of Reggio",Cancer,"HR 1.4",1.1,1.7,,Significant,"Not Adjusted",Extracted
+8991e5e8b7ea,"Characteristics and outcomes of a cohort of SARS-CoV-2 patients in the Province of Reggio",Cancer,,,,,,,
+a1b7179e2160,"Characteristics and outcomes of a cohort of SARS-CoV-2 patients in the Province of Reggio","Chronic kidney disease",,,,,,,
+bc838c58b33b,"Characteristics and outcomes of a cohort of SARS-CoV-2 patients in the Province of Reggio","Overweight or obese",,,,,,,
+bf1501ab54ad,"Characteristics and outcomes of a cohort of SARS-CoV-2 patients in the Province of Reggio","Male gender","HR 1.4",1.2,1.6,,Significant,"Not Adjusted",Extracted
+d41ee853c1f4,"Characteristics and outcomes of a cohort of SARS-CoV-2 patients in the Province of Reggio","Chronic kidney disease","HR 1.9",1.3,2.9,,Significant,"Not Adjusted",Extracted
+da6a76f658ff,"Characteristics and outcomes of a cohort of SARS-CoV-2 patients in the Province of Reggio",Dementia,,,,,,,
+db8a5932bc5c,"Characteristics and outcomes of a cohort of SARS-CoV-2 patients in the Province of Reggio",COPD,,,,,,,
+e9c5e5ab903b,"Characteristics and outcomes of a cohort of SARS-CoV-2 patients in the Province of Reggio",COPD,"HR 1.9",1.4,2.5,,Significant,"Not Adjusted",Extracted
+fd845c13d111,"Characteristics and outcomes of a cohort of SARS-CoV-2 patients in the Province of Reggio","Overweight or obese","HR 1.4",0.9,2.0,,"Not Significant","Not Adjusted",Extracted
+12b0859bac33,"Characteristics and Outcomes of COVID-19 Patients in New York City's Public Hospital System",Cancer,,,,,,,
+15ad88c645ff,"Characteristics and Outcomes of COVID-19 Patients in New York City's Public Hospital System","Overweight or obese",,,,,,,
+201d276fb37d,"Characteristics and Outcomes of COVID-19 Patients in New York City's Public Hospital System",Diabetes,,,,,,,
+3d8ecc5002f3,"Characteristics and Outcomes of COVID-19 Patients in New York City's Public Hospital System",Asthma,,,,,,,
+3e96afe854d6,"Characteristics and Outcomes of COVID-19 Patients in New York City's Public Hospital System","Chronic liver disease",,,,,,,
+3f7b6ca6ee27,"Characteristics and Outcomes of COVID-19 Patients in New York City's Public Hospital System","Race_ Black vs",,,,,,,
+556e4450d194,"Characteristics and Outcomes of COVID-19 Patients in New York City's Public Hospital System","Ethnicity_ Hispanic vs",,,,,,,
+967d797a3855,"Characteristics and Outcomes of COVID-19 Patients in New York City's Public Hospital System","Heart Failure",,,,,,,
+a6c4ad3f1ada,"Characteristics and Outcomes of COVID-19 Patients in New York City's Public Hospital System","Male gender",,,,,,,
+a871bff1180e,"Characteristics and Outcomes of COVID-19 Patients in New York City's Public Hospital System","Chronic kidney disease",,,,,,,
+c2784e5a2df8,"Characteristics and Outcomes of COVID-19 Patients in New York City's Public Hospital System","Immune system disorders",,,,,,,
+ce59e4dde423,"Characteristics and Outcomes of COVID-19 Patients in New York City's Public Hospital System",Hypertension,,,,,,,
+e01166cc1ee3,"Characteristics and Outcomes of COVID-19 Patients in New York City's Public Hospital System",COPD,,,,,,,
+e54384a38795,"Characteristics and Outcomes of COVID-19 Patients in New York City's Public Hospital System","Heart Disease",,,,,,,
+e79ea9233b69,"Characteristics and Outcomes of COVID-19 Patients in New York City's Public Hospital System","Race_ Asian vs",,,,,,,
+0188dbff6232,"Characteristics and outcomes of patients hospitalized for COVID-19 and cardiac disease in Northern Italy",Diabetes,,,,,,,Diabetes
+6aa303c9ddd5,"Characteristics and outcomes of patients hospitalized for COVID-19 and cardiac disease in Northern Italy","Heart Failure",,,,,,,"Heart failure"
+9b0de6e8b11e,"Characteristics and outcomes of patients hospitalized for COVID-19 and cardiac disease in Northern Italy","Heart Disease",,,,,,,"Cardiovascular disease"
+a20c39e73f2f,"Characteristics and outcomes of patients hospitalized for COVID-19 and cardiac disease in Northern Italy","Overweight or obese",,,,,,,Obesity
+cd8651879052,"Characteristics and outcomes of patients hospitalized for COVID-19 and cardiac disease in Northern Italy",Hypertension,,,,,,,Hypertension
+ff7d5a9ac402,"Characteristics and outcomes of patients hospitalized for COVID-19 and cardiac disease in Northern Italy","Chronic kidney disease",,,,,,,"Chronic kidney disease"
+0b7b7366e234,"Characteristics and predictors of hospitalization and death in the first 9,519 cases with a positive RT-PCR test for SARS-CoV-2 in Denmark: A nationwide cohort","Male gender",,,,,,,
+15e308420876,"Characteristics and predictors of hospitalization and death in the first 9,519 cases with a positive RT-PCR test for SARS-CoV-2 in Denmark: A nationwide cohort","Male gender",,,,,,,
+19cacc7805a2,"Characteristics and predictors of hospitalization and death in the first 9,519 cases with a positive RT-PCR test for SARS-CoV-2 in Denmark: A nationwide cohort","Autoimmune disorders",,,,,,,
+2b68b6628e93,"Characteristics and predictors of hospitalization and death in the first 9,519 cases with a positive RT-PCR test for SARS-CoV-2 in Denmark: A nationwide cohort","Male gender","OR 2.69",2.05,3.54,0,Significant,"Not Adjusted",Calculated
+356b1d33f8c6,"Characteristics and predictors of hospitalization and death in the first 9,519 cases with a positive RT-PCR test for SARS-CoV-2 in Denmark: A nationwide cohort","Overweight or obese",,,,,,,
+4289bc08abe8,"Characteristics and predictors of hospitalization and death in the first 9,519 cases with a positive RT-PCR test for SARS-CoV-2 in Denmark: A nationwide cohort","Cerebrovascular disease",,,,,,,
+54d8820675e4,"Characteristics and predictors of hospitalization and death in the first 9,519 cases with a positive RT-PCR test for SARS-CoV-2 in Denmark: A nationwide cohort","Heart Disease","OR 0.96",0.71,1.29,0.78,"Not Significant","Not Adjusted",Calculated
+5e80105da12d,"Characteristics and predictors of hospitalization and death in the first 9,519 cases with a positive RT-PCR test for SARS-CoV-2 in Denmark: A nationwide cohort",Diabetes,,,,,,,
+64ca2027cc72,"Characteristics and predictors of hospitalization and death in the first 9,519 cases with a positive RT-PCR test for SARS-CoV-2 in Denmark: A nationwide cohort","Chronic respiratory diseases","OR 0.79",0.58,1.08,0.14,"Not Significant","Not Adjusted",Calculated
+6542ac5f6637,"Characteristics and predictors of hospitalization and death in the first 9,519 cases with a positive RT-PCR test for SARS-CoV-2 in Denmark: A nationwide cohort","Chronic respiratory diseases",,,,,,,
+772538c1f248,"Characteristics and predictors of hospitalization and death in the first 9,519 cases with a positive RT-PCR test for SARS-CoV-2 in Denmark: A nationwide cohort",Cancer,"OR 1.17",0.85,1.6,0.33,"Not Significant","Not Adjusted",Calculated
+78d8dd255bb7,"Characteristics and predictors of hospitalization and death in the first 9,519 cases with a positive RT-PCR test for SARS-CoV-2 in Denmark: A nationwide cohort",Hypertension,"OR 1.08",0.85,1.39,0.52,"Not Significant","Not Adjusted",Calculated
+81856b0326ff,"Characteristics and predictors of hospitalization and death in the first 9,519 cases with a positive RT-PCR test for SARS-CoV-2 in Denmark: A nationwide cohort","Cerebrovascular disease","OR 0.60",0.39,0.9,0.01,Significant,"Not Adjusted",Calculated
+81c85fb90a2b,"Characteristics and predictors of hospitalization and death in the first 9,519 cases with a positive RT-PCR test for SARS-CoV-2 in Denmark: A nationwide cohort","Overweight or obese","OR 0.99",0.68,1.44,0.95,"Not Significant","Not Adjusted",Calculated
+94e56da6f7bb,"Characteristics and predictors of hospitalization and death in the first 9,519 cases with a positive RT-PCR test for SARS-CoV-2 in Denmark: A nationwide cohort",Dementia,,,,,,,
+b28ff63885d5,"Characteristics and predictors of hospitalization and death in the first 9,519 cases with a positive RT-PCR test for SARS-CoV-2 in Denmark: A nationwide cohort","Heart Failure",,,,,,,
+b934c2fdbc21,"Characteristics and predictors of hospitalization and death in the first 9,519 cases with a positive RT-PCR test for SARS-CoV-2 in Denmark: A nationwide cohort",Drinking,"OR 0.96",0.55,1.68,0.89,"Not Significant","Not Adjusted",Calculated
+bc1ae2326e3a,"Characteristics and predictors of hospitalization and death in the first 9,519 cases with a positive RT-PCR test for SARS-CoV-2 in Denmark: A nationwide cohort","Chronic liver disease","OR 1.16",0.6,2.23,0.66,"Not Significant","Not Adjusted",Calculated
+c77db4382d43,"Characteristics and predictors of hospitalization and death in the first 9,519 cases with a positive RT-PCR test for SARS-CoV-2 in Denmark: A nationwide cohort","Heart Disease",,,,,,,
+dd3b45eb86ba,"Characteristics and predictors of hospitalization and death in the first 9,519 cases with a positive RT-PCR test for SARS-CoV-2 in Denmark: A nationwide cohort",Drinking,,,,,,,
+e2f64aa7a095,"Characteristics and predictors of hospitalization and death in the first 9,519 cases with a positive RT-PCR test for SARS-CoV-2 in Denmark: A nationwide cohort",Diabetes,"OR 1.34",1.0,1.8,0.05,Significant,"Not Adjusted",Calculated
+e606cf355967,"Characteristics and predictors of hospitalization and death in the first 9,519 cases with a positive RT-PCR test for SARS-CoV-2 in Denmark: A nationwide cohort",Dementia,,,,,,,
+ecd9b9e04c4c,"Characteristics and predictors of hospitalization and death in the first 9,519 cases with a positive RT-PCR test for SARS-CoV-2 in Denmark: A nationwide cohort",Hypertension,,,,,,,
+eea3fa58b9bb,"Characteristics and predictors of hospitalization and death in the first 9,519 cases with a positive RT-PCR test for SARS-CoV-2 in Denmark: A nationwide cohort","Chronic liver disease",,,,,,,
+f4d3fb19a2b4,"Characteristics and predictors of hospitalization and death in the first 9,519 cases with a positive RT-PCR test for SARS-CoV-2 in Denmark: A nationwide cohort",Cancer,,,,,,,
+fc73f0716ee4,"Characteristics and predictors of hospitalization and death in the first 9,519 cases with a positive RT-PCR test for SARS-CoV-2 in Denmark: A nationwide cohort","Heart Failure","OR 0.38",0.22,0.66,0,Significant,"Not Adjusted",Calculated
+ff4860df8073,"Characteristics and predictors of hospitalization and death in the first 9,519 cases with a positive RT-PCR test for SARS-CoV-2 in Denmark: A nationwide cohort","Autoimmune disorders","OR 0.84",0.51,1.38,0.5,"Not Significant","Not Adjusted",Calculated
+df81d6c366dc,"Characteristics of COVID-19 infection in Beijing","Male gender","OR: 1.48",0.78,2.81,0.23,"Not Significant","Not Adjusted",Calculated
+2de5c1480374,"Characteristics of patients with COVID-19 during epidemic ongoing outbreak in Wuhan, China","Chronic respiratory diseases",,,,,,,
+d946414031dd,"Characteristics of patients with COVID-19 during epidemic ongoing outbreak in Wuhan, China","Smoking Status",,,,,,,
+b76ef8c7bfb7,"Characterization and Clinical Course of 1000 Patients with COVID-19 in New York: retrospective case series","Chronic kidney disease","OR 0.79",0.51,1.24,0.31,"Not Significant","Not Adjusted",Calculated
+7e3d6ff42b09,"Characterization of clinical progression of COVID-19 patients in Shenzhen, China",Hypertension,"OR 4.64",2.5,8.62,<0.01,Significant,"Not Adjusted",Calculated
+26fa283328f2,"Chronic obstructive pulmonary disease is associated with severe coronavirus disease 2019 (COVID-19)",COPD,"OR 5.69",2.49,13.0,,Significant,"Not Adjusted",Extracted
+240d0267dac7,"Clinical characteristics and outcomes of 112 cardiovascular disease patients infected by 2019-nCoV","Heart Failure",,,,,,,
+fc7188322948,"Clinical Characteristics and Outcomes of Hospitalized and Critically Ill Children and Adolescents with Coronavirus Disease 2019 (COVID-19) at a Tertiary Care Medical Center in New York City","Male gender","OR 0.70",0.18,2.66,0.6,"Not Significant","Not Adjusted",Calculated
+5aa2a5e02f9e,"Clinical Characteristics and Outcomes of Patients With Diabetes and COVID-19 in Association With Glucose-Lowering Medication",Age,AOR=1.02,1.01,1.03,,Significant,Adjusted,Extracted
+983bb0e971f2,"Clinical Characteristics and Outcomes of Patients With Diabetes and COVID-19 in Association With Glucose-Lowering Medication",Age,OR=1.04,1.03,1.05,,Significant,"Not Adjusted",Extracted
+48e9f0e33967,"Clinical Characteristics and Outcomes of Patients With Diabetes and COVID-19 in Association With Glucose-Lowering Medication.","Heart Disease",OR=3.63,2.17,6.07,,Significant,"Not Adjusted",Extracted
+78e0a7707819,"Clinical Characteristics and Outcomes of Patients With Diabetes and COVID-19 in Association With Glucose-Lowering Medication.",Diabetes,OR=2.21,1.5,3.26,,Significant,"Not Adjusted",Extracted
+9388d79d6e0c,"Clinical Characteristics and Outcomes of Patients With Diabetes and COVID-19 in Association With Glucose-Lowering Medication.","Chronic kidney disease",OR=7.23,2.82,18.57,,Significant,"Not Adjusted",Extracted
+cb6c5bf49a62,"Clinical Characteristics and Outcomes of Patients With Diabetes and COVID-19 in Association With Glucose-Lowering Medication.","Chronic respiratory diseases",OR=2.48,0.96,6.4,0.06,"Not Significant","Not Adjusted",Extracted
+f14e9fbe92ae,"Clinical Characteristics and Outcomes of Patients With Diabetes and COVID-19 in Association With Glucose-Lowering Medication.",Hypertension,OR=2.50,1.86,3.37,,Significant,"Not Adjusted",Extracted
+29c301f7d0c9,"Clinical characteristics and outcomes of patients with severe covid-19 with diabetes",Hypertension,,,,,,,
+696e9823f7c6,"Clinical characteristics and outcomes of patients with severe covid-19 with diabetes",Diabetes,,,,,,,
+dd47e3e5ebff,"Clinical characteristics and prognosis in cancer patients with COVID-19: A single center's retrospective study","Male gender","OR 0.7",0.19,2.58,0.59,"Not Significant","Not Adjusted",Calculated
+434c02ec5d2e,"Clinical Characteristics and Risk Factors for Mortality of COVID-19 Patients With Diabetes in Wuhan, China: A Two-Center, Retrospective Study","Male gender",,,,,,,
+602769384d38,"Clinical Characteristics and Risk Factors for Mortality of COVID-19 Patients With Diabetes in Wuhan, China: A Two-Center, Retrospective Study",Diabetes,,,,,,,
+02bbcbb5edf9,"Clinical Characteristics and Risk Factors for Mortality of COVID-19 Patients With Diabetes in Wuhan, China: A Two-Center, Retrospective Study.","Chronic respiratory diseases",,,,,,,
+47fea82b8c1d,"Clinical Characteristics and Risk Factors for Mortality of COVID-19 Patients With Diabetes in Wuhan, China: A Two-Center, Retrospective Study.","Cerebrovascular disease",,,,,,,
+df5cc9167df2,"Clinical Characteristics and Risk Factors for Mortality of COVID-19 Patients With Diabetes in Wuhan, China: A Two-Center, Retrospective Study.",Hypertension,,,,,,,
+f6e23fb0db6b,"Clinical Characteristics and Risk Factors for Mortality of COVID-19 Patients With Diabetes in Wuhan, China: A Two-Center, Retrospective Study.","Heart Disease",,,,,,,
+06748e552548,"Clinical Characteristics and Short-Term Outcomes of Severe Patients with COVID-19 in Wuhan, China","Male gender","HR 0.77",0.31,1.94,0.58,"Not Significant","Not Adjusted",Extracted
+5cd8c06f7ae7,"Clinical Characteristics and Short-Term Outcomes of Severe Patients with COVID-19 in Wuhan, China","Heart Disease","HR 1.6",0.64,4.01,0.32,"Not Significant","Not Adjusted",Extracted
+76df9adb420b,"Clinical Characteristics and Short-Term Outcomes of Severe Patients with COVID-19 in Wuhan, China",Hypertension,"HR 1.12",0.46,2.75,0.8,"Not Significant","Not Adjusted",Extracted
+82a55416e373,"Clinical Characteristics and Short-Term Outcomes of Severe Patients with COVID-19 in Wuhan, China","Male gender","AHR 0.73",0.29,1.84,0.51,"Not Significant",Adjusted,Extracted
+bf374270d6c5,"Clinical Characteristics and Short-Term Outcomes of Severe Patients with COVID-19 in Wuhan, China",Diabetes,"AHR 0.62",0.22,1.73,0.36,"Not Significant",Adjusted,Extracted
+c1650e51486c,"Clinical Characteristics and Short-Term Outcomes of Severe Patients with COVID-19 in Wuhan, China","Heart Disease","AHR 1.06",0.38,2.97,0.91,"Not Significant",Adjusted,Extracted
+d5c1e4b0d073,"Clinical Characteristics and Short-Term Outcomes of Severe Patients with COVID-19 in Wuhan, China",Diabetes,"HR 0.71",0.26,1.95,0.38,"Not Significant","Not Adjusted",Extracted
+ebd993dfd4ee,"Clinical Characteristics and Short-Term Outcomes of Severe Patients with COVID-19 in Wuhan, China",Hypertension,"AHR 0.96",0.39,2.38,0.93,"Not Significant",Adjusted,Extracted
+0a8bc5a716ed,"Clinical characteristics of 106 patients with neurological diseases and co-morbid coronavirus disease 2019: a retrospective study","Heart Disease","OR 0.73",0.31,1.74,0.48,"Not Significant","Not Adjusted",Calculated
+504c1b9a27bc,"Clinical characteristics of 106 patients with neurological diseases and co-morbid coronavirus disease 2019: a retrospective study",Dementia,"OR 1.61",0.59,4.44,0.35,"Not Significant","Not Adjusted",Calculated
+64848c4f8e0b,"Clinical characteristics of 106 patients with neurological diseases and co-morbid coronavirus disease 2019: a retrospective study",COPD,"OR 1.07",0.34,3.35,0.9,"Not Significant","Not Adjusted",Calculated
+6c25ce0948fb,"Clinical characteristics of 106 patients with neurological diseases and co-morbid coronavirus disease 2019: a retrospective study",Diabetes,"OR 0.77",0.34,1.71,0.51,"Not Significant","Not Adjusted",Calculated
+811bd4cf4cfc,"Clinical characteristics of 106 patients with neurological diseases and co-morbid coronavirus disease 2019: a retrospective study","Smoking Status","OR 1.74",0.6,5.06,0.31,"Not Significant","Not Adjusted",Calculated
+aa67cacee6fc,"Clinical characteristics of 106 patients with neurological diseases and co-morbid coronavirus disease 2019: a retrospective study",Hypertension,"OR 0.83",0.36,1.89,0.65,"Not Significant","Not Adjusted",Calculated
+712f07ffcfe5,"Clinical characteristics of 145 patients with corona virus disease 2019 (COVID-19) in Taizhou, Zhejiang, China",Diabetes,"OR 2.64",0.86,8.05,0.09,"Not Significant","Not Adjusted",Calculated
+d00c93948d0f,"Clinical characteristics of 145 patients with corona virus disease 2019 (COVID-19) in Taizhou, Zhejiang, China",Hypertension,"OR 1.81",0.71,4.63,0.21,"Not Significant","Not Adjusted",Calculated
+df270dc0a66c,"Clinical characteristics of 145 patients with corona virus disease 2019 (COVID-19) in Taizhou, Zhejiang, China","Male gender","OR 0.94",0.46,1.93,0.88,"Not Significant","Not Adjusted",Calculated
+112099211922,"Clinical characteristics of 2019 novel coronavirus infection in China",COPD,"OR 5.51",1.76,17.29,<0.01,Significant,"Not Adjusted",Calculated
+26700b69e474,"Clinical characteristics of 2019 novel coronavirus infection in China","Smoking Status","OR 1.91",1.27,2.86,<0.01,Significant,"Not Adjusted",Calculated
+0c2531a94ccd,"Clinical Characteristics of Coronavirus Disease 2019 in China","Smoking Status","OR 2.60",1.45,4.66,<0.01,Significant,"Not Adjusted",Calculated
+738296ee95a6,"Clinical Characteristics of Coronavirus Disease 2019 in China","Smoking Status","OR 1.5",0.97,2.36,0.07,"Not Significant","Not Adjusted",Calculated
+9dd652c3ec57,"Clinical Characteristics of Coronavirus Disease 2019 in China",COPD,"OR 5.51",1.76,17.29,<0.01,Significant,"Not Adjusted",Calculated
+faf96cf83605,"Clinical Characteristics of Coronavirus Disease 2019 in China",COPD,"OR 23.96",7.39,77.74,<0.01,Significant,"Not Adjusted",Calculated
+370cae7041e9,"Clinical Characteristics of Covid-19 in New York City","Heart Disease","OR 1.92",1.07,3.44,0.03,Significant,"Not Adjusted",Calculated
+5fe871595410,"Clinical Characteristics of Covid-19 in New York City","Overweight or obese","OR 1.64",1.06,2.54,0.03,Significant,"Not Adjusted",Calculated
+6f700efc08cd,"Clinical Characteristics of Covid-19 in New York City",COPD,"OR 1.09",0.43,2.81,0.85,"Not Significant","Not Adjusted",Calculated
+d45a784f5c17,"Clinical Characteristics of Covid-19 in New York City","Male gender","OR 1.94",1.24,3.04,<0.01,Significant,"Not Adjusted",Calculated
+dc71225120e1,"Clinical Characteristics of Covid-19 in New York City",Asthma,"OR 1.09",0.58,2.04,0.8,"Not Significant","Not Adjusted",Calculated
+fe35945b70ab,"Clinical characteristics of COVID-19-infected cancer patients: A retrospective case study in three hospitals within Wuhan, China",Age,"HR 1.46",0.48,4.43,0.51,"Not Significant","Not Adjusted",Extracted
+014c42c79ec7,"Clinical Characteristics of Hospitalized Covid-19 Patients in New York City","Heart Disease",,,,,,,
+07f6311265d6,"Clinical Characteristics of Hospitalized Covid-19 Patients in New York City",Cancer,,,,,,,
+0834b41ed8ae,"Clinical Characteristics of Hospitalized Covid-19 Patients in New York City","Ethnicity_ Hispanic vs",,,,,,,
+0a26e80525e2,"Clinical Characteristics of Hospitalized Covid-19 Patients in New York City","Cerebrovascular disease",,,,,,,
+178b344ba0c5,"Clinical Characteristics of Hospitalized Covid-19 Patients in New York City",Hypertension,,,,,,,
+3db65ec980a5,"Clinical Characteristics of Hospitalized Covid-19 Patients in New York City","Race_ Black vs",,,,,,,
+45806598586b,"Clinical Characteristics of Hospitalized Covid-19 Patients in New York City","Male gender",,,,,,,
+81c809d7d7d4,"Clinical Characteristics of Hospitalized Covid-19 Patients in New York City","Heart Disease",,,,,,,
+8a97f507f247,"Clinical Characteristics of Hospitalized Covid-19 Patients in New York City","Race_ Asian vs",,,,,,,
+c3eb760957cc,"Clinical Characteristics of Hospitalized Covid-19 Patients in New York City",Diabetes,,,,,,,
+c8ef48ca619c,"Clinical Characteristics of Hospitalized Covid-19 Patients in New York City","Chronic kidney disease",,,,,,,
+c995f5fb52db,"Clinical Characteristics of Hospitalized Covid-19 Patients in New York City","Heart Failure",,,,,,,
+df60f62ff383,"Clinical Characteristics of Hospitalized Covid-19 Patients in New York City",Asthma,,,,,,,
+7080a158a649,"Clinical characteristics of patients diagnosed with COVID-19 in Beijing",Hypertension,"OR 6.00",1.59,22.62,<0.05,Significant,"Not Adjusted",Calculated
+ec4093b3e004,"Clinical characteristics of patients diagnosed with COVID-19 in Beijing","Male gender","OR 2.13",0.63,7.16,0.22,"Not Significant","Not Adjusted",Calculated
+4ad9428fda0d,"Clinical Characteristics of Patients with Severe Pneumonia Caused by the 2019 Novel Coronavirus in Wuhan, China","Smoking Status","OR 1.00",0.4,2.53,0.99,"Not Significant","Not Adjusted",Calculated
+1868c677ece1,"Clinical characteristics, outcomes, and risk factors for mortality in patients with cancer and COVID-19 in Hubei, China: a multicentre, retrospective, cohort study","Male gender",,,,,,,
+a396702b0196,"Clinical characteristics, outcomes, and risk factors for mortality in patients with cancer and COVID-19 in Hubei, China: a multicentre, retrospective, cohort study","Heart Disease",,,,,,,
+aed50ab3e9c0,"Clinical characteristics, outcomes, and risk factors for mortality in patients with cancer and COVID-19 in Hubei, China: a multicentre, retrospective, cohort study","Male gender",,,,,,,
+f2fcec175203,"Clinical characteristics, outcomes, and risk factors for mortality in patients with cancer and COVID-19 in Hubei, China: a multicentre, retrospective, cohort study",Hypertension,,,,,,,
+ee71f02d2d26,"Clinical Characteristics, Risk Factors and Outcomes Among the First Consecutive 1,096 Patients Diagnosed with COVID-19: The Kuwait Experience","Smoking Status",AOR=5.86,1.4,24.47,<0.05,Significant,Adjusted,Extracted
+fc5bb40c18b6,"Clinical Characteristics, Risk Factors and Outcomes Among the First Consecutive 1,096 Patients Diagnosed with COVID-19: The Kuwait Experience",Asthma,,,,,,,
+9f5b2c12f425,"Clinical course and outcome of 107 patients infected with the novel coronavirus, SARS-CoV-2, discharged from two hospitals in Wuhan, China",Hypertension,,,,,,,
+b860ba5ff7b4,"Clinical course and outcome of 107 patients infected with the novel coronavirus, SARS-CoV-2, discharged from two hospitals in Wuhan, China","Heart Disease",,,,,,,
+c0adfc032c1b,"Clinical course and outcome of 107 patients infected with the novel coronavirus, SARS-CoV-2, discharged from two hospitals in Wuhan, China",Diabetes,,,,,,,
+29016dd1e83d,"Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study","Smoking Status",,,,,,,
+2e033a3384c4,"Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study","Smoking Status",,,,,,,
+34edea68de60,"Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study","Smoking Status",,,,,,,
+5f658a2c3b0d,"Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study",Age,,,,,,,
+bcdb310bbf1c,"Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study",Age,,,,,,,
+0b73453bb582,"Clinical course of severe and critical COVID-19 in hospitalized pregnancies: a US cohort study","Race_ Black vs","OR 0.49",0.12,2.06,0.33,"Not Significant","Not Adjusted",Calculated
+19a152661bf6,"Clinical determinants for fatality of 44,672 patients with COVID-19",Hypertension,,,,,,,
+983da351cd33,"Clinical determinants for fatality of 44,672 patients with COVID-19",Diabetes,,,,,,,
+9d439ed62765,"Clinical determinants for fatality of 44,672 patients with COVID-19","Heart Disease",,,,,,,
+ff85e9321ee8,"Clinical determinants for fatality of 44,672 patients with COVID-19","Male gender",,,,,,,
+406a32fb7056,"Clinical features and short-term outcomes of 221 patients with COVID-19 in Wuhan, China",Diabetes,"OR 1.47",0.57,3.81,0.43,"Not Significant","Not Adjusted",Calculated
+6ba7198e7d99,"Clinical features and short-term outcomes of 221 patients with COVID-19 in Wuhan, China","Heart Disease","OR 5.40",2.16,13.49,<0.01,Significant,"Not Adjusted",Calculated
+a40753aa9105,"Clinical features and short-term outcomes of 221 patients with COVID-19 in Wuhan, China",Hypertension,"OR 4.42",2.27,8.61,<0.01,Significant,"Not Adjusted",Calculated
+3914e48e649f,"Clinical Features and Short-term Outcomes of Elderly Patients With COVID-19",Hypertension,,,,,,,
+715be9e7faba,"Clinical Features and Short-term Outcomes of Elderly Patients With COVID-19","Chronic kidney disease",,,,,,,
+72a009200eb5,"Clinical Features and Short-term Outcomes of Elderly Patients With COVID-19",COPD,,,,,,,
+aefa4d977b79,"Clinical Features and Short-term Outcomes of Elderly Patients With COVID-19",Cancer,,,,,,,
+c7ccdcd853dd,"Clinical Features and Short-term Outcomes of Elderly Patients With COVID-19",Diabetes,,,,,,,
+eaf2e28a4c68,"Clinical Features and Short-term Outcomes of Elderly Patients With COVID-19","Heart Disease",,,,,,,
+5f4beefb347a,"Clinical features of 95 sequential hospitalised patients with novel coronavirus 2019 disease (COVID-19), the first UK cohort","Chronic respiratory diseases",,,,,,,
+7bbc2d75ee49,"Clinical features of 95 sequential hospitalised patients with novel coronavirus 2019 disease (COVID-19), the first UK cohort","Chronic kidney disease",,,,,,,
+f85f660f0854,"Clinical features of 95 sequential hospitalised patients with novel coronavirus 2019 disease (COVID-19), the first UK cohort","Heart Failure",,,,,,,
+7454df39350c,"Clinical findings of patients with coronavirus disease 2019 in Jiangsu province, China: A retrospective, multi-center study.","Male gender",OR=2.29,0.86,6.08,0.1,"Not Significant","Not Adjusted",Extracted
+a29aeac7afb8,"Clinical findings of patients with coronavirus disease 2019 in Jiangsu province, China: A retrospective, multi-center study.","Overweight or obese",OR=6.90,2.38,20.0,<0.05,Significant,"Not Adjusted",Extracted
+a9914da1491d,"Clinical findings of patients with coronavirus disease 2019 in Jiangsu province, China: A retrospective, multi-center study.","Overweight or obese",AOR=9.22,2.73,31.13,<0.05,Significant,Adjusted,Extracted
+d8a7059ba354,"Clinical Presentation of COVID19 in Dementia Patients",Dementia,,,,,,,
+f08ff92bfe4b,"Clinical Presentation of COVID19 in Dementia Patients",Age,,,,,,,
+d418d5f3f61f,"Clinical progression of patients with COVID-19 in Shanghai, China",Age,"OR 1.08",1.04,1.13,<0.01,Significant,"Not Adjusted",Extracted
+d467f2e3a937,"Clinical progression of patients with COVID-19 in Shanghai, China",Age,"AOR 1.06",1.0,1.12,0.05,"Not Significant",Adjusted,Extracted
+b513e77e739f,"Cohort profile: Preliminary experience of 500 COVID-19 postive cases at a South West London District General Hospital.","Male gender",,,,,,,
+3fbb7bf72577,"Comorbid Chronic Diseases and Acute Organ Injuries Are Strongly Correlated with Disease Severity and Mortality among COVID-19 Patients: A Systemic Review and Meta-Analysis",Diabetes,"OR 2.61",2.05,3.33,,Significant,"Not Adjusted",Extracted
+52031eb9e93c,"Comorbid Chronic Diseases and Acute Organ Injuries Are Strongly Correlated with Disease Severity and Mortality among COVID-19 Patients: A Systemic Review and Meta-Analysis","Heart Disease","OR 3.84",2.9,5.07,,Significant,"Not Adjusted",Extracted
+7017ddd927e2,"Comorbidity and its impact on 1,590 patients with COVID-19 in China: A Nationwide Analysis",Cancer,"HR 3.50",1.6,7.64,<0.01,Significant,"Not Adjusted",Extracted
+ebb0b65cc3c9,"Comorbidity and its impact on 1,590 patients with COVID-19 in China: A Nationwide Analysis [medrxiv]",COPD,"HR 2.68",1.42,5.05,<0.01,Significant,"Not Adjusted",Extracted
+b9aa813d0617,"Compassionate Use of Remdesivir for Patients with Severe Covid-19","Male gender","OR 1.78",0.5,6.37,0.38,,,
+01babcfaf37b,"Coronavirus disease 2019 (COVID-19) and cardiovascular risk: A meta-analysis",Diabetes,"OR 3.02",2.07,4.42,,Significant,"Not Adjusted",Extracted
+079943020cc8,"Coronavirus disease 2019 (COVID-19) and cardiovascular risk: A meta-analysis","Heart Failure","OR 9.77",5.36,17.79,,Significant,"Not Adjusted",Extracted
+2d9d87cff415,"Coronavirus disease 2019 (COVID-19) and cardiovascular risk: A meta-analysis","Smoking Status","OR 2.75",0.46,16.33,,"Not Significant","Not Adjusted",Extracted
+7abc80bf12f2,"Coronavirus disease 2019 (COVID-19) and cardiovascular risk: A meta-analysis","Heart Disease","OR 8.89",4.04,19.54,,Significant,"Not Adjusted",Extracted
+5688c6d0a448,"Coronavirus Disease 2019 in elderly patients: characteristics and prognostic factors based on 4-week follow-up",Age,,,,,,,
+655cacf24c4f,"Coronavirus Disease 2019 in elderly patients: characteristics and prognostic factors based on 4-week follow-up",Age,,,,,,,
+f6da362a4cbe,"Coronavirus Disease 2019 in elderly patients: characteristics and prognostic factors based on 4-week follow-up","Cerebrovascular disease",,,,,,,
+da22295aa3c3,"Coronavirus Disease 2019 in elderly patients: characteristics and prognostic factors based on 4-week follow-up [Journal of Infection]",COPD,,,,,,,
+0007c3dc5257,"Correlation of coagulation parameters with clinical outcomes in Coronavirus-19 affected minorities in United States: Observational cohort","Male gender",,,,,,,
+2ac2eb32b34a,"Correlation of coagulation parameters with clinical outcomes in Coronavirus-19 affected minorities in United States: Observational cohort","Male gender",,,,,,,
+2bca890051bc,"Correlation of coagulation parameters with clinical outcomes in Coronavirus-19 affected minorities in United States: Observational cohort","Race_ Other vs",,,,,,,
+4b1e18ae1bbd,"Correlation of coagulation parameters with clinical outcomes in Coronavirus-19 affected minorities in United States: Observational cohort",Diabetes,,,,,,,
+5c2f977b6bb0,"Correlation of coagulation parameters with clinical outcomes in Coronavirus-19 affected minorities in United States: Observational cohort",Age,,,,,,,
+7e16fde0be25,"Correlation of coagulation parameters with clinical outcomes in Coronavirus-19 affected minorities in United States: Observational cohort",Age,,,,,,,
+8ad23c035b50,"Correlation of coagulation parameters with clinical outcomes in Coronavirus-19 affected minorities in United States: Observational cohort",Hypertension,,,,,,,
+9b2553885804,"Correlation of coagulation parameters with clinical outcomes in Coronavirus-19 affected minorities in United States: Observational cohort","Ethnicity_ Hispanic vs",,,,,,,
+ab4fb33723aa,"Correlation of coagulation parameters with clinical outcomes in Coronavirus-19 affected minorities in United States: Observational cohort","Chronic kidney disease",,,,,,,
+bf7867495fe3,"Correlation of coagulation parameters with clinical outcomes in Coronavirus-19 affected minorities in United States: Observational cohort","Chronic respiratory diseases",,,,,,,
+e6e92e52781b,"Correlation of coagulation parameters with clinical outcomes in Coronavirus-19 affected minorities in United States: Observational cohort","Race_ Black vs",,,,,,,
+067f42876574,"Covid-19 by Race and Ethnicity: A National Cohort Study of 6 Million United States Veterans","Ethnicity_ Hispanic vs",,,,,,,
+6ad92fc32574,"Covid-19 by Race and Ethnicity: A National Cohort Study of 6 Million United States Veterans","Ethnicity_ Hispanic vs",,,,,,,
+8eafbadb15dc,"Covid-19 by Race and Ethnicity: A National Cohort Study of 6 Million United States Veterans","Race_ Black vs",,,,,,,
+ce59199f18a0,"Covid-19 by Race and Ethnicity: A National Cohort Study of 6 Million United States Veterans","Race_ Black vs",,,,,,,
+03123c5cd7ef,"COVID-19 in Iran, a comprehensive investigation from exposure to treatment outcomes",Hypertension,"OR 3.04",0.98,9.46,0.06,"Not Significant","Not Adjusted",Calculated
+3709153e7619,"COVID-19 in Iran, a comprehensive investigation from exposure to treatment outcomes",Diabetes,"OR 2.17",0.69,6.83,0.19,"Not Significant","Not Adjusted",Calculated
+fd8696bf7d17,"COVID-19 in Iran, a comprehensive investigation from exposure to treatment outcomes","Male gender","OR 0.98",0.3,3.2,0.98,"Not Significant","Not Adjusted",Calculated
+6398f59a8069,"COVID-19 in Liver Transplant Recipients: An Initial Experience from the U.S. Epicenter","Heart Disease","OR 1.33",0.26,6.81,0.73,"Not Significant","Not Adjusted",Calculated
+dda503f99bb7,"COVID-19 in Liver Transplant Recipients: An Initial Experience from the U.S. Epicenter",Diabetes,"OR 1.40",0.28,7.02,0.68,"Not Significant","Not Adjusted",Calculated
+1f0eca221328,"COVID-19 in solid organ transplant recipients: Initial report from the US epicenter","Race_ Black vs","OR 1.27",0.43,3.73,0.67,"Not Significant","Not Adjusted",Calculated
+341fb9a9307b,"COVID-19 in solid organ transplant recipients: Initial report from the US epicenter",Hypertension,"OR 1.67",0.63,4.39,0.3,"Not Significant","Not Adjusted",Calculated
+6a9469f1e298,"COVID-19 in solid organ transplant recipients: Initial report from the US epicenter",Diabetes,"OR 1.44",0.58,3.55,0.43,"Not Significant","Not Adjusted",Calculated
+b0736a24c156,"COVID-19 in solid organ transplant recipients: Initial report from the US epicenter","Chronic respiratory diseases","OR 1.35",0.44,4.12,0.6,"Not Significant","Not Adjusted",Calculated
+b624a19d3c8b,"COVID-19 in solid organ transplant recipients: Initial report from the US epicenter","Chronic kidney disease","OR 1.56",0.59,4.11,0.37,"Not Significant","Not Adjusted",Calculated
+c26616bac4c8,"COVID-19 in solid organ transplant recipients: Initial report from the US epicenter",Hypertension,"OR 1.63",0.63,4.39,0.3,"Not Significant","Not Adjusted",Calculated
+cc7e29ac62a0,"COVID-19 in solid organ transplant recipients: Initial report from the US epicenter","Ethnicity_ Hispanic vs","OR 1.22",0.49,3.03,0.67,"Not Significant","Not Adjusted",Calculated
+f96f85c04856,"COVID-19 in solid organ transplant recipients: Initial report from the US epicenter","Ethnicity_ Hispanic vs","OR 0.68",0.28,1.69,0.41,"Not Significant","Not Adjusted",Calculated
+fd58c8b43614,"COVID-19 in solid organ transplant recipients: Initial report from the US epicenter","Male gender","OR 1.02",0.41,2.56,0.96,"Not Significant","Not Adjusted",Calculated
+29cf70ac5ffe,"COVID-19 Infections and Outcomes in a Live Registry of Heart Failure Patients Across an Integrated Health Care System Short COVID-19 Infection in Heart Failure Corresponding Author","Male gender",,,,,,,
+60c73999fb13,"COVID-19 Infections and Outcomes in a Live Registry of Heart Failure Patients Across an Integrated Health Care System Short COVID-19 Infection in Heart Failure Corresponding Author","Chronic kidney disease",,,,,,,
+9f5aae416cc0,"COVID-19 Infections and Outcomes in a Live Registry of Heart Failure Patients Across an Integrated Health Care System Short COVID-19 Infection in Heart Failure Corresponding Author",Hypertension,,,,,,,
+c9ca5b4ecb3d,"COVID-19 Infections and Outcomes in a Live Registry of Heart Failure Patients Across an Integrated Health Care System Short COVID-19 Infection in Heart Failure Corresponding Author","Race_ Black vs",,,,,,,
+f6a4fdd4d3f1,"COVID-19 Infections and Outcomes in a Live Registry of Heart Failure Patients Across an Integrated Health Care System Short COVID-19 Infection in Heart Failure Corresponding Author",COPD,,,,,,,
+fe7b802310c7,"COVID-19 Infections and Outcomes in a Live Registry of Heart Failure Patients Across an Integrated Health Care System Short COVID-19 Infection in Heart Failure Corresponding Author","Heart Disease",,,,,,,
+282e328cb491,"Covid-19 Testing, Hospital Admission, and Intensive Care Among 2,026,227 United States Veterans Aged 54-75 Years","Chronic kidney disease",OR=1.73,1.08,2.77,,Significant,"Not Adjusted",Extracted
+3289ae7d5602,"Covid-19 Testing, Hospital Admission, and Intensive Care Among 2,026,227 United States Veterans Aged 54-75 Years","Chronic kidney disease",AOR=0.65,0.35,1.21,,"Not Significant",Adjusted,Extracted
+3ec900b1eded,"Covid-19 Testing, Hospital Admission, and Intensive Care Among 2,026,227 United States Veterans Aged 54-75 Years",COPD,AOR=1.81,0.92,3.58,,"Not Significant",Adjusted,Extracted
+474b55d882c3,"Covid-19 Testing, Hospital Admission, and Intensive Care Among 2,026,227 United States Veterans Aged 54-75 Years","Ethnicity_ Hispanic vs","OR 0.87",0.41,1.84,0.71,"Not Significant","Not Adjusted",Calculated
+71bf431a7c72,"Covid-19 Testing, Hospital Admission, and Intensive Care Among 2,026,227 United States Veterans Aged 54-75 Years",COPD,OR=1.93,1.17,3.18,,Significant,"Not Adjusted",Extracted
+c5cee78ce847,"Covid-19 Testing, Hospital Admission, and Intensive Care Among 2,026,227 United States Veterans Aged 54-75 Years",COPD,AOR=1.47,0.79,2.73,,"Not Significant",Adjusted,Extracted
+d0b5b0852fd8,"Covid-19 Testing, Hospital Admission, and Intensive Care Among 2,026,227 United States Veterans Aged 54-75 Years","Chronic kidney disease",AOR=0.50,0.24,1.06,,"Not Significant",Adjusted,Extracted
+39648e84cd3f,"COVID-19 with Different Severities: A Multicenter Study of Clinical Features",Drinking,"OR 2.72",1.28,5.81,0.01,Significant,"Not Adjusted",Calculated
+66c870d4b16f,"COVID-19 with Different Severities: A Multicenter Study of Clinical Features",Cancer,"OR 6.25",1.96,19.98,0,Significant,"Not Adjusted",Calculated
+7a28747bd9d4,"COVID-19 with Different Severities: A Multicenter Study of Clinical Features",Diabetes,"OR 0.79",0.32,1.94,0.61,"Not Significant","Not Adjusted",Calculated
+9a4636c8afdc,"COVID-19 with Different Severities: A Multicenter Study of Clinical Features",Hypertension,"OR 2.01",1.17,3.46,0.01,Significant,"Not Adjusted",Calculated
+9f336b4fd46b,"COVID-19 with Different Severities: A Multicenter Study of Clinical Features","Male gender","OR 3.25",1.87,5.65,0,Significant,"Not Adjusted",Calculated
+d53165fccdf5,"COVID-19 with Different Severities: A Multicenter Study of Clinical Features",COPD,"OR 6.69",2.78,16.13,0,Significant,"Not Adjusted",Calculated
+e2a8ad387dd2,"COVID-19 with Different Severities: A Multicenter Study of Clinical Features","Heart Disease","OR 3.02",1.45,6.32,0,Significant,"Not Adjusted",Calculated
+e98717b97eac,"COVID-19 with Different Severities: A Multicenter Study of Clinical Features","Smoking Status","OR 1.82",0.86,3.88,0.12,"Not Significant","Not Adjusted",Calculated
+f743dc2bb3be,"COVID-19 with Different Severities: A Multicenter Study of Clinical Features","Cerebrovascular disease","OR 5.69",2.12,15.31,0.0,Significant,"Not Adjusted",Calculated
+033713fcf3c1,"COVID-19: Impact of Obesity and Diabetes in Disease Severity",Hypertension,AOR=0.63,0.32,1.26,<0.05,Significant,Adjusted,Extracted
+0cad4776a3ab,"COVID-19: Impact of Obesity and Diabetes in Disease Severity",Diabetes,AOR=5.49,3.13,9.65,<0.05,Significant,Adjusted,Extracted
+4641983a6d6e,"COVID-19: Impact of Obesity and Diabetes in Disease Severity","Overweight or obese",AOR=1.91,0.94,3.84,0.07,"Not Significant",Adjusted,Extracted
+46e93c1f9db3,"COVID-19: Impact of Obesity and Diabetes in Disease Severity","Male gender",AOR=3.58,1.45,8.8,<0.05,Significant,Adjusted,Extracted
+47a72310ac98,"COVID-19: Impact of Obesity and Diabetes in Disease Severity","Overweight or obese",OR=2.45,1.26,4.74,<0.05,Significant,"Not Adjusted",Extracted
+49f41552c7f2,"COVID-19: Impact of Obesity and Diabetes in Disease Severity",Diabetes,OR=9.38,5.49,16.02,<0.05,Significant,"Not Adjusted",Extracted
+6ea03ef31863,"COVID-19: Impact of Obesity and Diabetes in Disease Severity","Male gender",OR=0.73,0.41,1.28,0.28,"Not Significant","Not Adjusted",Extracted
+94b11a73e748,"COVID-19: Impact of Obesity and Diabetes in Disease Severity",Hypertension,OR=0.73,0.42,1.26,0.27,"Not Significant","Not Adjusted",Extracted
+c82dc984eb08,"COVID-19: Impact of Obesity and Diabetes in Disease Severity","Male gender",AOR=2.23,1.18,4.22,<0.05,Significant,Adjusted,Extracted
+ef37ab8af35c,"COVID-19: Impact of Obesity and Diabetes in Disease Severity",Hypertension,AOR=0.51,0.28,0.91,0.2,"Not Significant",Adjusted,Extracted
+ab88585f5eb0,"Development and external validation of a prognostic multivariable model on admission for hospitalized patients with COVID-19","Smoking Status",,,,,,,
+00ec76149c4a,"Development and Validation of a Clinical Risk Score to Predict the Occurrence of Critical Illness in Hospitalized Patients With COVID-19.","Chronic kidney disease","OR 4.62",1.76,12.12,0,Significant,"Not Adjusted",Calculated
+2bccde3fac0d,"Development and Validation of a Clinical Risk Score to Predict the Occurrence of Critical Illness in Hospitalized Patients With COVID-19.","Heart Disease","OR 3.38",1.78,6.44,0,Significant,"Not Adjusted",Calculated
+449ab3087a75,"Development and Validation of a Clinical Risk Score to Predict the Occurrence of Critical Illness in Hospitalized Patients With COVID-19.",Diabetes,"OR 4.26",2.71,6.69,0,Significant,"Not Adjusted",Calculated
+5114812162c8,"Development and Validation of a Clinical Risk Score to Predict the Occurrence of Critical Illness in Hospitalized Patients With COVID-19.","Cerebrovascular disease","OR 5.95",2.72,12.99,0.0,Significant,"Not Adjusted",Calculated
+8d1d4fa850d3,"Development and Validation of a Clinical Risk Score to Predict the Occurrence of Critical Illness in Hospitalized Patients With COVID-19.","Smoking Status","OR 2.34",1.36,4.01,0,Significant,"Not Adjusted",Calculated
+bc9aa00427c4,"Development and Validation of a Clinical Risk Score to Predict the Occurrence of Critical Illness in Hospitalized Patients With COVID-19.",Cancer,"OR 7.43",2.83,19.51,0,Significant,"Not Adjusted",Calculated
+ec9d08b2b8b0,"Development and Validation of a Clinical Risk Score to Predict the Occurrence of Critical Illness in Hospitalized Patients With COVID-19.",COPD,"OR 12.16",5.35,27.66,0,Significant,"Not Adjusted",Calculated
+f9182bc5cc50,"Development and Validation of a Clinical Risk Score to Predict the Occurrence of Critical Illness in Hospitalized Patients With COVID-19.",Hypertension,"OR 3.91",2.68,5.7,0,Significant,"Not Adjusted",Calculated
+871fb9b3bf93,"Diabetes is associated with increased risk for in-hospital mortality in patients with COVID-19: a systematic review and meta-analysis comprising 18,506 patients",Diabetes,,,,,,,
+92cdc092e50c,"Do Patients with Cancer Have a Poorer Prognosis of COVID-19? An Experience in New York City. Title: Do Patients with Cancer Have a Poorer Prognosis of COVID-19? An Experience in New York",Cancer,"RR 1.89",1.37,2.61,,Significant,"Not Adjusted",Extracted
+06f2fdf4428c,"Does comorbidity increase the risk of patients with COVID-19: evidence from meta-analysis",COPD,"OR 5.97",2.49,14.29,,Significant,"Not Adjusted",Extracted
+4fb663ff05fa,"Does comorbidity increase the risk of patients with COVID-19: evidence from meta-analysis","Chronic kidney disease","OR 2.51",0.93,6.78,,"Not Significant","Not Adjusted",Extracted
+5cd1f55d2d3f,"Does comorbidity increase the risk of patients with COVID-19: evidence from meta-analysis",Cancer,"OR 2.29",1.0,5.23,,"Not Significant","Not Adjusted",Extracted
+a5f1c8c11e75,"Does comorbidity increase the risk of patients with COVID-19: evidence from meta-analysis","Heart Disease","OR 2.93",1.73,4.96,,Significant,"Not Adjusted",Extracted
+a79cbe64fa63,"Does comorbidity increase the risk of patients with COVID-19: evidence from meta-analysis","Chronic liver disease","OR 0.67",0.3,1.49,,"Not Significant","Not Adjusted",Extracted
+ab4477f444a2,"Does comorbidity increase the risk of patients with COVID-19: evidence from meta-analysis","Cerebrovascular disease","OR 3.89",1.64,9.22,,Significant,"Not Adjusted",Extracted
+2dc984e99639,"Early estimation of the risk factors for hospitalisation and mortality by COVID-19 in Mexico","Smoking Status",,,,,,,
+2f971b654587,"Early estimation of the risk factors for hospitalisation and mortality by COVID-19 in Mexico","Overweight or obese",,,,,,,
+7088fe7763c9,"Early estimation of the risk factors for hospitalisation and mortality by COVID-19 in Mexico","Chronic kidney disease",,,,,,,
+74cc8e250823,"Early estimation of the risk factors for hospitalisation and mortality by COVID-19 in Mexico",Asthma,,,,,,,
+cae909df15e5,"Early estimation of the risk factors for hospitalisation and mortality by COVID-19 in Mexico",Hypertension,,,,,,,
+d1fa00f564c9,"Early estimation of the risk factors for hospitalisation and mortality by COVID-19 in Mexico",Diabetes,,,,,,,
+dd4b0561ae39,"Early estimation of the risk factors for hospitalisation and mortality by COVID-19 in Mexico",COPD,,,,,,,
+ddc360975d4b,"Early estimation of the risk factors for hospitalisation and mortality by COVID-19 in Mexico","Heart Disease",,,,,,,
+f3d4efb837a2,"Early estimation of the risk factors for hospitalisation and mortality by COVID-19 in Mexico","Male gender",,,,,,,
+6e7363fd1a53,"Early outcomes of tocilizumab in adults hospitalized with severe COVID19. An initial report from the Vall dHebron COVID19 prospective cohort study.","Smoking Status",,,,,,,
+7d2e1c4b0214,"Early outcomes of tocilizumab in adults hospitalized with severe COVID19. An initial report from the Vall dHebron COVID19 prospective cohort study.","Respiratory system diseases",,,,,,,
+bcf031c8508f,"Early outcomes of tocilizumab in adults hospitalized with severe COVID19. An initial report from the Vall dHebron COVID19 prospective cohort study.",Hypertension,,,,,,,
+188953190cec,"Early prediction of mortality risk among severe COVID-19 patients using machine learning","Chronic respiratory diseases",,,,,,,
+3bd3d4f6f9f1,"Early prediction of mortality risk among severe COVID-19 patients using machine learning","Male gender",,,,,,,
+3058b9a3be8a,"Effect of underlying comorbidities on the infection and severity of COVID-19 in South Korea",Cancer,"OR 1.94",1.35,2.8,0,Significant,"Not Adjusted",Calculated
+574f7679ab00,"Effect of underlying comorbidities on the infection and severity of COVID-19 in South Korea",Dementia,"OR 7.03",4.9,10.08,0.0,Significant,"Not Adjusted",Calculated
+67920b64bf32,"Effect of underlying comorbidities on the infection and severity of COVID-19 in South Korea","Male gender","OR 1.40",1.11,1.78,0,Significant,"Not Adjusted",Calculated
+73a6cfe4196f,"Effect of underlying comorbidities on the infection and severity of COVID-19 in South Korea",Hypertension,"OR 4.59",3.61,5.83,0,Significant,"Not Adjusted",Calculated
+8e760e82bbd3,"Effect of underlying comorbidities on the infection and severity of COVID-19 in South Korea",Diabetes,"OR 3.92",3.04,5.06,0,Significant,"Not Adjusted",Calculated
+a44123f0f029,"Effect of underlying comorbidities on the infection and severity of COVID-19 in South Korea","Cerebrovascular disease","OR 3.89",2.85,5.31,0.0,Significant,"Not Adjusted",Calculated
+04272f08b0c4,"Effects of pre-existing morbidities on occurrence of death among COVID-19 disease patients: A systematic review and meta-analysis","Chronic liver disease",,,,,,,
+5da00225b46a,"Effects of pre-existing morbidities on occurrence of death among COVID-19 disease patients: A systematic review and meta-analysis","Chronic respiratory diseases",,,,,,,
+8d1bec38a9a4,"Effects of pre-existing morbidities on occurrence of death among COVID-19 disease patients: A systematic review and meta-analysis",Hypertension,,,,,,,
+9b850b1f26ee,"Effects of pre-existing morbidities on occurrence of death among COVID-19 disease patients: A systematic review and meta-analysis","Heart Disease",,,,,,,
+b11cb926a4b6,"Effects of pre-existing morbidities on occurrence of death among COVID-19 disease patients: A systematic review and meta-analysis","Cerebrovascular disease",,,,,,,
+b5ca3d6e977e,"Effects of pre-existing morbidities on occurrence of death among COVID-19 disease patients: A systematic review and meta-analysis","Chronic digestive disorders",,,,,,,
+c63db5355758,"Effects of pre-existing morbidities on occurrence of death among COVID-19 disease patients: A systematic review and meta-analysis",Cancer,,,,,,,
+f2457aa73a90,"Effects of pre-existing morbidities on occurrence of death among COVID-19 disease patients: A systematic review and meta-analysis","Respiratory system diseases",,,,,,,
+1db3f40d7120,"Epidemiological and clinical characteristics of 333 confirmed cases with coronavirus disease 2019 in Shanghai, China","Heart Disease",OR=4.2,1.2,14.2,<0.05,Significant,"Not Adjusted",Extracted
+347e7b925fa3,"Epidemiological and clinical characteristics of 333 confirmed cases with coronavirus disease 2019 in Shanghai, China","Overweight or obese","OR 1.83",0.81,4.12,0.14,"Not Significant","Not Adjusted",Calculated
+65da68e13318,"Epidemiological and clinical characteristics of 333 confirmed cases with coronavirus disease 2019 in Shanghai, China",Hypertension,OR=0.7,0.2,2.0,0.5,"Not Significant","Not Adjusted",Extracted
+b62420d35d47,"Epidemiological and clinical characteristics of 333 confirmed cases with coronavirus disease 2019 in Shanghai, China","Male gender","OR 3.40",1.33,8.7,0.01,Significant,"Not Adjusted",Calculated
+cd5fdef8e333,"Epidemiological and clinical characteristics of 333 confirmed cases with coronavirus disease 2019 in Shanghai, China",Diabetes,OR=1.1,0.3,3.6,0.88,"Not Significant","Not Adjusted",Extracted
+dc4b89d94b04,"Epidemiological and clinical characteristics of 333 confirmed cases with coronavirus disease 2019 in Shanghai, China",Drinking,"OR 0.72",0.26,1.99,0.53,"Not Significant","Not Adjusted",Calculated
+537bd6f613e6,"Epidemiological and clinical features of 125 Hospitalized Patients with COVID-19 in Fuyang, Anhui, China Epidemiological and clinical features of 125 Hospitalized Patients with COVID-19 in Fuyang, Anhui, China","Smoking Status","OR 3.93",1.3,11.9,0.02,Significant,"Not Adjusted",Calculated
+020bae775efe,"Epidemiological and clinical features of 2019-nCoV acute respiratory disease cases in Chongqing municipality China: a retrospective descriptive multiple-center study","Smoking Status","OR 14.46",7.03,29.75,<.01,Significant,"Not Adjusted",Calculated
+15b6c2550456,"Epidemiological and clinical features of 2019-nCoV acute respiratory disease cases in Chongqing municipality China: a retrospective descriptive multiple-center study","Overweight or obese","OR 4.89",2.19,10.87,<.01,Significant,"Not Adjusted",Calculated
+1ec8ffa08743,"Epidemiological and clinical features of 2019-nCoV acute respiratory disease cases in Chongqing municipality China: a retrospective descriptive multiple-center study","Respiratory system diseases","OR 3.37",1.41,8.03,<.01,Significant,"Not Adjusted",Calculated
+6227f386bbeb,"Epidemiological and clinical features of 2019-nCoV acute respiratory disease cases in Chongqing municipality China: a retrospective descriptive multiple-center study",Age,,,,,,,
+7b1333f28ca6,"Epidemiological and clinical features of 291 cases with coronavirus disease 2019 in areas adjacent to Hubei, China: a double-center observational study","Chronic respiratory diseases","OR 5.24",1.46,18.86,0.01,Significant,"Not Adjusted",Calculated
+20d59dfdc85b,"Epidemiological and clinical features of 291 cases with coronavirus disease 2019 in areas adjacent to Hubei, China: a double-center observational study [medrxiv]","Chronic respiratory diseases","OR 5.24",1.46,18.9,0.01,Significant,"Not Adjusted",Calculated
+beb823337c4f,"Epidemiological and clinical features of COVID-19 patients with and without pneumonia in Beijing, China",Age,,,,,,,
+e0c2cae5ada2,"Epidemiological characteristics of confirmed COVID-19 cases in Tianjin",Age,"AOR 1.04",1.01,1.17,,Significant,Adjusted,Extracted
+f2ebeb100805,"Epidemiological characteristics of confirmed COVID-19 cases in Tianjin","Cerebrovascular disease","OR 2.48",1.14,5.4,,Significant,"Not Adjusted",Extracted
+144aaa7ba116,"Epidemiological characteristics of coronavirus disease 2019 (COVID-19) patients in IRAN: A single center study","Chronic respiratory diseases",,,,,,,
+9a1aa3b13c18,"Epidemiological characteristics of coronavirus disease 2019 (COVID-19) patients in IRAN: A single center study",Hypertension,,,,,,,
+f039a2ce8915,"Epidemiological characteristics of coronavirus disease 2019 (COVID-19) patients in IRAN: A single center study","Male gender",,,,,,,
+132fa16a0568,"Epidemiological Characteristics of Coronavirus Disease 2019 (COVID-19) Patients in IRAN: A single Center Study [Journal of Clinical Virology]",Age,,,,,,,
+189609e54df5,"Epidemiological Characteristics of Coronavirus Disease 2019 (COVID-19) Patients in IRAN: A single Center Study [Journal of Clinical Virology]","Male gender",,,,,,,
+4b6fb636917e,"Epidemiological Characteristics of Coronavirus Disease 2019 (COVID-19) Patients in IRAN: A single Center Study [Journal of Clinical Virology]",Diabetes,,,,,,,
+927ef093cf3e,"Epidemiological Characteristics of Coronavirus Disease 2019 (COVID-19) Patients in IRAN: A single Center Study [Journal of Clinical Virology]","Chronic respiratory diseases",,,,,,,
+8670cba4dde1,"Epidemiological, clinical characteristics of cases of SARS-CoV-2 infection with abnormal imaging findings",Cancer,"OR 8.30",1.64,42.01,0.01,Significant,"Not Adjusted",Extracted
+00db7337bf8c,"Epidemiology, clinical course, and outcomes of critically ill adults with COVID-19 in New York City: a prospective cohort study","Race_ Black vs",,,,,,,
+10b2d7b6ed94,"Epidemiology, clinical course, and outcomes of critically ill adults with COVID-19 in New York City: a prospective cohort study",Diabetes,,,,,,,
+19b2f248c763,"Epidemiology, clinical course, and outcomes of critically ill adults with COVID-19 in New York City: a prospective cohort study",Hypertension,,,,,,,
+25dddc822ebe,"Epidemiology, clinical course, and outcomes of critically ill adults with COVID-19 in New York City: a prospective cohort study","Chronic respiratory diseases",,,,,,,
+28ad00cf9b5d,"Epidemiology, clinical course, and outcomes of critically ill adults with COVID-19 in New York City: a prospective cohort study",Age,,,,,,,
+2ec83cacbf52,"Epidemiology, clinical course, and outcomes of critically ill adults with COVID-19 in New York City: a prospective cohort study","Overweight or obese",,,,,,,
+398772d3b8fa,"Epidemiology, clinical course, and outcomes of critically ill adults with COVID-19 in New York City: a prospective cohort study","Male gender",,,,,,,
+4023adc0b848,"Epidemiology, clinical course, and outcomes of critically ill adults with COVID-19 in New York City: a prospective cohort study",Age,,,,,,,
+4bf3fa4fc97b,"Epidemiology, clinical course, and outcomes of critically ill adults with COVID-19 in New York City: a prospective cohort study","Ethnicity_ Hispanic vs",,,,,,,
+52ee42dd2f25,"Epidemiology, clinical course, and outcomes of critically ill adults with COVID-19 in New York City: a prospective cohort study","Overweight or obese",,,,,,,
+5f45c1a8c6aa,"Epidemiology, clinical course, and outcomes of critically ill adults with COVID-19 in New York City: a prospective cohort study","Heart Disease",,,,,,,
+605ce3965fc0,"Epidemiology, clinical course, and outcomes of critically ill adults with COVID-19 in New York City: a prospective cohort study",Diabetes,,,,,,,
+62279c94fdd3,"Epidemiology, clinical course, and outcomes of critically ill adults with COVID-19 in New York City: a prospective cohort study","Heart Disease",,,,,,,
+748f6d79a49b,"Epidemiology, clinical course, and outcomes of critically ill adults with COVID-19 in New York City: a prospective cohort study",Diabetes,,,,,,,
+764296daa2c4,"Epidemiology, clinical course, and outcomes of critically ill adults with COVID-19 in New York City: a prospective cohort study",Hypertension,,,,,,,
+8cbcbf7a7501,"Epidemiology, clinical course, and outcomes of critically ill adults with COVID-19 in New York City: a prospective cohort study","Chronic respiratory diseases",,,,,,,
+8f8570a962f9,"Epidemiology, clinical course, and outcomes of critically ill adults with COVID-19 in New York City: a prospective cohort study","Chronic respiratory diseases",,,,,,,
+b1c9fa123c10,"Epidemiology, clinical course, and outcomes of critically ill adults with COVID-19 in New York City: a prospective cohort study","Chronic respiratory diseases",,,,,,,
+be6ed791daf0,"Epidemiology, clinical course, and outcomes of critically ill adults with COVID-19 in New York City: a prospective cohort study","Chronic kidney disease",,,,,,,
+c587ec2aecb0,"Epidemiology, clinical course, and outcomes of critically ill adults with COVID-19 in New York City: a prospective cohort study","Male gender",,,,,,,
+cc403c53eae4,"Epidemiology, clinical course, and outcomes of critically ill adults with COVID-19 in New York City: a prospective cohort study","Chronic kidney disease",,,,,,,
+cdab407dbc43,"Epidemiology, clinical course, and outcomes of critically ill adults with COVID-19 in New York City: a prospective cohort study","Heart Disease",,,,,,,
+ddc474721502,"Epidemiology, clinical course, and outcomes of critically ill adults with COVID-19 in New York City: a prospective cohort study","Overweight or obese",,,,,,,
+e665129c645e,"Epidemiology, clinical course, and outcomes of critically ill adults with COVID-19 in New York City: a prospective cohort study","Heart Disease",,,,,,,
+f85638e66f51,"Epidemiology, clinical course, and outcomes of critically ill adults with COVID-19 in New York City: a prospective cohort study","Chronic kidney disease",,,,,,,
+fc09cd799086,"Epidemiology, clinical course, and outcomes of critically ill adults with COVID-19 in New York City: a prospective cohort study",Diabetes,,,,,,,
+281aafc3a8dc,"Estimating Survival of Hospitalized COVID-19 Patients from Admission Information",Diabetes,,,,,,,
+36f38882e818,"Estimating Survival of Hospitalized COVID-19 Patients from Admission Information","Male gender",,,,,,,
+7bca14f72027,"Estimating Survival of Hospitalized COVID-19 Patients from Admission Information","Chronic kidney disease",,,,,,,
+814f4f782564,"Estimating Survival of Hospitalized COVID-19 Patients from Admission Information","Heart Failure",,,,,,,
+8c250b25f233,"Estimating Survival of Hospitalized COVID-19 Patients from Admission Information","Race_ Black vs",,,,,,,
+b102d64ccecd,"Estimating Survival of Hospitalized COVID-19 Patients from Admission Information",Hypertension,,,,,,,
+ca90197cf139,"Estimating Survival of Hospitalized COVID-19 Patients from Admission Information","Heart Disease",,,,,,,
+e0e8eea94b8c,"Estimating Survival of Hospitalized COVID-19 Patients from Admission Information","Chronic respiratory diseases",,,,,,,
+e24071a0c26a,"Estimating Survival of Hospitalized COVID-19 Patients from Admission Information","Ethnicity_ Hispanic vs",,,,,,,
+e4f1e68f07d5,"Estimating Survival of Hospitalized COVID-19 Patients from Admission Information","Race_ Asian vs",,,,,,,
+7e50cf6335eb,"Ethnicity and risk of death in patients hospitalised for COVID-19 infection: an observational cohort study in an urban catchment area","Race_ Black vs",,,,,,,
+5fa29b618bf0,"Extent of prior lung irradiation and mortality in COVID-19 patients with a cancer history","Ethnicity_ Hispanic vs",,,,,,,
+71c623f2185e,"Extent of prior lung irradiation and mortality in COVID-19 patients with a cancer history",Age,,,,,,,
+09a5e8043c20,"Factors associated with hospital admission and critical illness among 5279 people with coronavirus disease 2019 in New York City: prospective cohort study","Heart Failure",AOR=1.93,1.4,2.6,<0.05,Significant,Adjusted,Extracted
+0f197f360e9a,"Factors associated with hospital admission and critical illness among 5279 people with coronavirus disease 2019 in New York City: prospective cohort study","Chronic respiratory diseases",AOR=0.99,0.76,1.3,0.93,"Not Significant",Adjusted,Extracted
+11ab20282de8,"Factors associated with hospital admission and critical illness among 5279 people with coronavirus disease 2019 in New York City: prospective cohort study",Cancer,AOR=1.30,0.95,1.8,0.1,"Not Significant",Adjusted,Extracted
+34083a2cc727,"Factors associated with hospital admission and critical illness among 5279 people with coronavirus disease 2019 in New York City: prospective cohort study","Race_ Other vs",AOR=1.24,0.86,1.8,0.7,"Not Significant",Adjusted,Extracted
+3d330f7b006a,"Factors associated with hospital admission and critical illness among 5279 people with coronavirus disease 2019 in New York City: prospective cohort study","Smoking Status",AOR=1.05,0.82,1.3,0.72,"Not Significant",Adjusted,Extracted
+48aead725566,"Factors associated with hospital admission and critical illness among 5279 people with coronavirus disease 2019 in New York City: prospective cohort study",Hypertension,AOR=0.96,0.75,1.2,0.76,"Not Significant",Adjusted,Extracted
+48f2fbeb5329,"Factors associated with hospital admission and critical illness among 5279 people with coronavirus disease 2019 in New York City: prospective cohort study","Race_ Asian vs",AOR=1.24,0.82,1.9,0.3,"Not Significant",Adjusted,Extracted
+4f8739ff44d7,"Factors associated with hospital admission and critical illness among 5279 people with coronavirus disease 2019 in New York City: prospective cohort study","Overweight or obese",AOR=0.94,0.73,1.2,0.65,"Not Significant",Adjusted,Extracted
+5f90526f6359,"Factors associated with hospital admission and critical illness among 5279 people with coronavirus disease 2019 in New York City: prospective cohort study",Diabetes,AOR=1.23,0.99,1.5,0.06,"Not Significant",Adjusted,Extracted
+6dcadbb9c6d4,"Factors associated with hospital admission and critical illness among 5279 people with coronavirus disease 2019 in New York City: prospective cohort study","Heart Disease",AOR=0.92,0.71,1.2,0.56,"Not Significant",Adjusted,Extracted
+7c377298bb48,"Factors associated with hospital admission and critical illness among 5279 people with coronavirus disease 2019 in New York City: prospective cohort study","Chronic kidney disease",AOR=0.73,0.55,1.0,<0.05,Significant,Adjusted,Extracted
+9e3033aa1710,"Factors associated with hospital admission and critical illness among 5279 people with coronavirus disease 2019 in New York City: prospective cohort study","Male gender",AOR=1.06,0.85,1.3,0.6,"Not Significant",Adjusted,Extracted
+a553b582333b,"Factors associated with hospital admission and critical illness among 5279 people with coronavirus disease 2019 in New York City: prospective cohort study","Overweight or obese",AOR=1.71,1.1,2.7,<0.05,Significant,Adjusted,Extracted
+d36ab5265212,"Factors associated with hospital admission and critical illness among 5279 people with coronavirus disease 2019 in New York City: prospective cohort study","Overweight or obese",AOR=1.11,0.85,1.5,0.44,"Not Significant",Adjusted,Extracted
+e2908b7eb0ce,"Factors associated with hospital admission and critical illness among 5279 people with coronavirus disease 2019 in New York City: prospective cohort study","Race_ Black vs",AOR=0.57,0.41,0.8,<0.05,Significant,Adjusted,Extracted
+e980de45bfca,"Factors associated with hospital admission and critical illness among 5279 people with coronavirus disease 2019 in New York City: prospective cohort study","Ethnicity_ Hispanic vs",AOR=0.89,0.69,1.2,0.38,"Not Significant",Adjusted,Extracted
+58f6673b9f95,"Factors associated with hospitalization and critical illness among 4,103 patients with","Male gender","OR 0.99",0.74,1.33,0.95,"Not Significant","Not Adjusted",Extracted
+6effc9131cc0,"Factors associated with hospitalization and critical illness among 4,103 patients with","Overweight or obese","OR 1.38",1.03,1.85,0.03,Significant,"Not Adjusted",Extracted
+8bbe020d0145,"Factors associated with hospitalization and critical illness among 4,103 patients with",Cancer,"OR 1.14",0.67,1.91,0.63,"Not Significant","Not Adjusted",Extracted
+be5c024cc167,"Factors associated with hospitalization and critical illness among 4,103 patients with","Chronic kidney disease","OR 0.51",0.29,0.89,0.02,Significant,"Not Adjusted",Extracted
+c0c4edc58663,"Factors associated with hospitalization and critical illness among 4,103 patients with","Heart Disease","OR 0.89",0.55,1.41,0.61,"Not Significant","Not Adjusted",Extracted
+faa37da38908,"Factors associated with hospitalization and critical illness among 4,103 patients with","Heart Failure","OR 1.31",0.73,2.34,0.36,"Not Significant","Not Adjusted",Extracted
+08d873bcb812,"Factors Associated With Intubation and Prolonged Intubation in Hospitalized Patients With COVID-19",Hypertension,"OR 1.29",0.87,1.92,0.21,"Not Significant","Not Adjusted",Calculated
+2def1cac9fcf,"Factors Associated With Intubation and Prolonged Intubation in Hospitalized Patients With COVID-19","Ethnicity_ Hispanic vs",AOR=0.83,0.44,1.55,0.57,"Not Significant",Adjusted,Extracted
+35df5e13f2bf,"Factors Associated With Intubation and Prolonged Intubation in Hospitalized Patients With COVID-19","Race_ Black vs",AOR=0.56,0.3,1.01,0.06,"Not Significant",Adjusted,Extracted
+44c2517dc324,"Factors Associated With Intubation and Prolonged Intubation in Hospitalized Patients With COVID-19","Chronic kidney disease","OR 1.01",0.5,2.03,0.98,"Not Significant","Not Adjusted",Calculated
+6ae7e6a652ce,"Factors Associated With Intubation and Prolonged Intubation in Hospitalized Patients With COVID-19","Overweight or obese",AOR=1.46,0.87,2.46,0.15,"Not Significant",Adjusted,Extracted
+818cfb45602a,"Factors Associated With Intubation and Prolonged Intubation in Hospitalized Patients With COVID-19","Chronic respiratory diseases","OR 1.07",0.63,1.81,0.82,"Not Significant","Not Adjusted",Calculated
+a0ff939a6ed9,"Factors Associated With Intubation and Prolonged Intubation in Hospitalized Patients With COVID-19","Race_ Asian vs","AOR 0.71",0.27,1.71,0.46,"Not Significant",Adjusted,Extracted
+af664786d4fe,"Factors Associated With Intubation and Prolonged Intubation in Hospitalized Patients With COVID-19",Diabetes,"OR 1.60",1.06,2.41,<0.05,Significant,"Not Adjusted",Calculated
+d7ef64dd8422,"Factors Associated With Intubation and Prolonged Intubation in Hospitalized Patients With COVID-19",Cancer,"OR 1.31",0.73,2.32,0.37,"Not Significant","Not Adjusted",Calculated
+da5364dfa0d7,"Factors Associated With Intubation and Prolonged Intubation in Hospitalized Patients With COVID-19","Heart Disease","OR 1.59",1.01,2.5,<0.05,Significant,"Not Adjusted",Calculated
+ea6ec472056b,"Factors Associated With Intubation and Prolonged Intubation in Hospitalized Patients With COVID-19","Smoking Status","OR 1.47",0.98,2.22,0.06,"Not Significant","Not Adjusted",Calculated
+8e3b8f0efeca,"Features of 16,749 hospitalised UK patients with COVID-19 using the ISARIC WHO Clinical Characterisation Protocol",COPD,,,,,,,
+2ad361c68912,"Features of 20 133 UK patients in hospital with covid-19 using the ISARIC WHO Clinical Characterisation Protocol: prospective observational cohort study.","Heart Disease",,,,,,,
+7d55486646a8,"Features of 20 133 UK patients in hospital with covid-19 using the ISARIC WHO Clinical Characterisation Protocol: prospective observational cohort study.","Overweight or obese",,,,,,,
+a26937f249ce,"Features of 20 133 UK patients in hospital with covid-19 using the ISARIC WHO Clinical Characterisation Protocol: prospective observational cohort study.",Dementia,,,,,,,
+c3ef5fe9c11e,"Features of 20 133 UK patients in hospital with covid-19 using the ISARIC WHO Clinical Characterisation Protocol: prospective observational cohort study.","Chronic respiratory diseases",,,,,,,
+c985f465240f,"Features of 20 133 UK patients in hospital with covid-19 using the ISARIC WHO Clinical Characterisation Protocol: prospective observational cohort study.",Diabetes,,,,,,,
+e5c640dfdff7,"Features of 20 133 UK patients in hospital with covid-19 using the ISARIC WHO Clinical Characterisation Protocol: prospective observational cohort study.","Chronic kidney disease",,,,,,,
+e933520a8d32,"Features of 20 133 UK patients in hospital with covid-19 using the ISARIC WHO Clinical Characterisation Protocol: prospective observational cohort study.",Cancer,,,,,,,
+facdf756665f,"Features of 20 133 UK patients in hospital with covid-19 using the ISARIC WHO Clinical Characterisation Protocol: prospective observational cohort study.","Chronic liver disease",,,,,,,
+0ccb4e6a673b,"Frailty and mortality in hospitalized older adults with COVID-19: retrospective observational study",Dementia,,,,,,,
+a6bfd9673c61,"Gender-Based Disparities in COVID-19: Clinical Characteristics and Propensity-matched Analysis of Outcomes","Male gender","RR 1.71",1.28,2.3,<0.01,Significant,Adjusted,Extracted
+30bc8dac075c,"High prevalence of obesity in severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) requiring invasive mechanical ventilation","Overweight or obese",AOR=3.45,0.83,14.31,0.48,"Not Significant",Adjusted,Extracted
+73ca23eec09c,"High prevalence of obesity in severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) requiring invasive mechanical ventilation","Overweight or obese",AOR=7.36,1.63,33.14,<0.05,Significant,Adjusted,Extracted
+b6fc57717f50,"High prevalence of obesity in severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) requiring invasive mechanical ventilation",Age,OR=1.00,0.97,1.02,0.73,"Not Significant","Not Adjusted",Extracted
+cb5a45d9c48f,"High prevalence of obesity in severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) requiring invasive mechanical ventilation",Age,AOR=1.00,0.97,1.04,0.87,"Not Significant",Adjusted,Extracted
+cdadc9889553,"High prevalence of obesity in severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) requiring invasive mechanical ventilation","Overweight or obese",OR=6.75,1.76,25.85,<0.05,Significant,"Not Adjusted",Extracted
+d321d225991a,"High prevalence of obesity in severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) requiring invasive mechanical ventilation","Overweight or obese",OR=3.38,0.9,12.72,0.45,"Not Significant","Not Adjusted",Extracted
+d365bcede9f3,"High prevalence of obesity in severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) requiring invasive mechanical ventilation","Overweight or obese",OR=1.72,0.56,5.23,0.22,"Not Significant","Not Adjusted",Extracted
+d6d6e87262b5,"High prevalence of obesity in severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) requiring invasive mechanical ventilation","Overweight or obese",AOR=1.69,0.52,5.48,0.22,"Not Significant",Adjusted,Extracted
+4b91ac078b2a,"Higher mortality in men from COVID19 infection-understanding the factors that drive the differences between the biological sexes.","Male gender",,,,,,,
+271590793f5a,"History of coronary heart disease increases the mortality rate of COVID-19 patients: a nested case-control study","Chronic respiratory diseases",,,,,,,
+2cd0823e530e,"History of coronary heart disease increases the mortality rate of COVID-19 patients: a nested case-control study",Age,,,,,,,
+3fc98431311c,"History of coronary heart disease increases the mortality rate of COVID-19 patients: a nested case-control study","Chronic kidney disease",,,,,,,
+68f04d2fc023,"History of coronary heart disease increases the mortality rate of COVID-19 patients: a nested case-control study",COPD,,,,,,,
+7b54cba37347,"History of coronary heart disease increases the mortality rate of COVID-19 patients: a nested case-control study","Heart Failure",,,,,,,
+84867d2d5de1,"History of coronary heart disease increases the mortality rate of COVID-19 patients: a nested case-control study","Cerebrovascular disease",,,,,,,
+85e3941afa56,"History of coronary heart disease increases the mortality rate of COVID-19 patients: a nested case-control study",COPD,,,,,,,
+d9c16d752176,"History of coronary heart disease increases the mortality rate of COVID-19 patients: a nested case-control study","Cerebrovascular disease",,,,,,,
+95a4b29bd05b,"Host susceptibility to severe COVID-19 and establishment of a host risk score: findings of 487 cases outside Wuhan","Smoking Status","OR 1.60",0.64,4.04,0.32,,,
+2ed67828235d,"Hypertension and Renin-Angiotensin-Aldosterone System Inhibitors in Patients with Covid-19",Hypertension,,,,,,,
+343003201d97,"Hypertension and Renin-Angiotensin-Aldosterone System Inhibitors in Patients with Covid-19",Hypertension,,,,,,,
+0dba68e2dd8c,"ICU and Ventilator Mortality Among Critically Ill Adults With Coronavirus Disease 2019","Heart Failure",,,,,,"Heart failure",
+1a1fc06158cb,"ICU and Ventilator Mortality Among Critically Ill Adults With Coronavirus Disease 2019",Diabetes,,,,,,Diabetes,
+1b068811b4f3,"ICU and Ventilator Mortality Among Critically Ill Adults With Coronavirus Disease 2019",Hypertension,,,,,,Hypertension,
+339f3890c6e9,"ICU and Ventilator Mortality Among Critically Ill Adults With Coronavirus Disease 2019","Heart Disease",,,,,,"Cardiovascular disease",
+5a71206837ba,"ICU and Ventilator Mortality Among Critically Ill Adults With Coronavirus Disease 2019","Race_ Black vs",,,,,,"Race black vs white",
+95a5be1a8c40,"ICU and Ventilator Mortality Among Critically Ill Adults With Coronavirus Disease 2019",COPD,,,,,,COPD,
+fcc93676d148,"ICU and Ventilator Mortality Among Critically Ill Adults With Coronavirus Disease 2019","Chronic kidney disease",,,,,,"Chronic kidney disease",
+269685d08537,"ICU and ventilator mortality among critically ill adults with COVID-19","Chronic kidney disease",,,,,,,
+4514a9a7a52f,"ICU and ventilator mortality among critically ill adults with COVID-19","Heart Disease",,,,,,,
+6f80f749f343,"ICU and ventilator mortality among critically ill adults with COVID-19","Race_ Other vs",,,,,,,
+702c81acc8a8,"ICU and ventilator mortality among critically ill adults with COVID-19",Hypertension,,,,,,,
+9cb37bfd6728,"ICU and ventilator mortality among critically ill adults with COVID-19",Diabetes,,,,,,,
+b769348ae1de,"ICU and ventilator mortality among critically ill adults with COVID-19","Heart Failure",,,,,,,
+e1bd09d43b23,"ICU and ventilator mortality among critically ill adults with COVID-19","Race_ Black vs",,,,,,,
+a6a03b60103c,"Impact of blood analysis and immune function on the prognosis of patients with COVID-19","Male gender",,,,,,,
+0972ff32c0a7,"Impact of cardiovascular disease and cardiac injury on in-hospital mortality in patients with COVID-19: a systematic review and meta-analysis.",Hypertension,,,,,,,
+e348d4c09ca3,"Impact of cardiovascular disease and cardiac injury on in-hospital mortality in patients with COVID-19: a systematic review and meta-analysis.","Heart Disease",,,,,,,
+825db82ed308,"Impact of Cerebrovascular and Cardiovascular Diseases on Mortality and Severity of COVID-19 â€“ Systematic Review, Meta-analysis, and Meta-regression","Cerebrovascular disease","RR 1.88",1.0,3.51,0.05,"Not Significant","Not Adjusted",Extracted
+d227b08fcb72,"Impact of Cerebrovascular and Cardiovascular Diseases on Mortality and Severity of COVID-19 â€“ Systematic Review, Meta-analysis, and Meta-regression","Heart Disease","RR 2.25",1.51,3.36,<0.01,Significant,"Not Adjusted",Extracted
+39f386116dcf,"Impaired type I interferon activity and exacerbated inflammatory responses in severe Covid-19 patients","Male gender","OR 2.42",0.6,9.68,0.21,,,
+d4bf108c2508,"Impaired type I interferon activity and exacerbated inflammatory responses in severe Covid-19 patients",Hypertension,"OR 2.86",0.82,9.99,0.1,"Not Significant","Not Adjusted",Calculated
+fb3af693f7dc,"Incidence of venous thromboembolism in hospitalized patients with COVID-20","Male gender","OR 2.42",1.26,4.62,0.01,Significant,"Not Adjusted",Calculated
+133229dd22c2,"Incidence, clinical characteristics and prognostic factor of patients with COVID-19: a systematic review and meta-analysis",Cancer,"RR 2.93",1.34,6.41,,Significant,"Not Adjusted",Extracted
+28f92532e7d6,"Incidence, clinical characteristics and prognostic factor of patients with COVID-19: a systematic review and meta-analysis",COPD,"OR 5.32",2.61,10.85,,Significant,"Not Adjusted",Extracted
+33edf7003b7f,"Incidence, clinical characteristics and prognostic factor of patients with COVID-19: a systematic review and meta-analysis","Chronic kidney disease","OR 6.02",2.19,16.51,,Significant,"Not Adjusted",Extracted
+a495ae56e6b8,"Incidence, clinical characteristics and prognostic factor of patients with COVID-19: a systematic review and meta-analysis","Smoking Status","OR 1.73",1.15,2.63,,Significant,"Not Adjusted",Extracted
+cbadfc43b6dd,"Incidence, clinical characteristics and prognostic factor of patients with COVID-19: a systematic review and meta-analysis","Cerebrovascular disease","OR 3.22",1.49,6.97,,Significant,"Not Adjusted",Calculated
+4ad5e37e2033,"Influence factors of death risk among COVID-19 patients in Wuhan, China: a hospital-based case-cohort study","Smoking Status",,,,,,,"Smoking status"
+117381319fe1,"Influence of diabetes mellitus on the severity and fatality of SARS-CoV-2 infection.",Diabetes,AOR=5.29,1.07,26.02,<0.05,Significant,Adjusted,Extracted
+1e6670d2577e,"Influence of diabetes mellitus on the severity and fatality of SARS-CoV-2 infection.",Diabetes,OR=2.58,1.93,3.45,,Significant,"Not Adjusted",Extracted
+8e4f1418ff2a,"Influence of diabetes mellitus on the severity and fatality of SARS-CoV-2 infection.",Diabetes,OR=4.67,1.19,18.26,<0.05,Significant,"Not Adjusted",Extracted
+0702c6999cdd,"Interim Analysis of Risk Factors for Severe Outcomes among a Cohort of Hospitalized Adults Identified through the U.S. Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET)","Ethnicity_ Hispanic vs","RR 0.96",0.76,1.21,,"Not Significant",Adjusted,Extracted
+1fe612bd26d5,"Interim Analysis of Risk Factors for Severe Outcomes among a Cohort of Hospitalized Adults Identified through the U.S. Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET)","Chronic kidney disease","RR 1.05",0.94,1.16,,"Not Significant",Adjusted,Extracted
+26e83b0a4e93,"Interim Analysis of Risk Factors for Severe Outcomes among a Cohort of Hospitalized Adults Identified through the U.S. Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET)","Overweight or obese","RR 1.31",1.16,1.47,,Significant,Adjusted,Extracted
+27e12e8789b1,"Interim Analysis of Risk Factors for Severe Outcomes among a Cohort of Hospitalized Adults Identified through the U.S. Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET)","Autoimmune disorders",,,,,,,
+28cb37cd026e,"Interim Analysis of Risk Factors for Severe Outcomes among a Cohort of Hospitalized Adults Identified through the U.S. Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET)","Neurological disorders","RR 0.88",0.76,1.03,,"Not Significant","Not Adjusted",Extracted
+29904a27e14c,"Interim Analysis of Risk Factors for Severe Outcomes among a Cohort of Hospitalized Adults Identified through the U.S. Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET)","Race_ Black vs","RR 1.01",0.89,1.15,,"Not Significant",Adjusted,Extracted
+299cd24a15b6,"Interim Analysis of Risk Factors for Severe Outcomes among a Cohort of Hospitalized Adults Identified through the U.S. Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET)","Immune system disorders","RR 1.29",1.13,1.47,,Significant,Adjusted,Extracted
+355d64bfec57,"Interim Analysis of Risk Factors for Severe Outcomes among a Cohort of Hospitalized Adults Identified through the U.S. Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET)","Heart Disease","RR 1.17",1.09,1.26,,Significant,"Not Adjusted",Extracted
+373f01ca6cd1,"Interim Analysis of Risk Factors for Severe Outcomes among a Cohort of Hospitalized Adults Identified through the U.S. Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET)","Smoking Status","RR 1.26",1.1,1.43,,Significant,"Not Adjusted",Extracted
+3df82cf07508,"Interim Analysis of Risk Factors for Severe Outcomes among a Cohort of Hospitalized Adults Identified through the U.S. Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET)",Hypertension,"RR 0.92",0.79,1.07,,"Not Significant",Adjusted,Extracted
+4d038c0e5da2,"Interim Analysis of Risk Factors for Severe Outcomes among a Cohort of Hospitalized Adults Identified through the U.S. Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET)","Chronic kidney disease","RR 1.23",1.11,1.37,,Significant,"Not Adjusted",Extracted
+4d888e230228,"Interim Analysis of Risk Factors for Severe Outcomes among a Cohort of Hospitalized Adults Identified through the U.S. Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET)","Race_ Black vs","RR 1.03",0.93,1.13,,"Not Significant","Not Adjusted",Extracted
+63e2c56b2793,"Interim Analysis of Risk Factors for Severe Outcomes among a Cohort of Hospitalized Adults Identified through the U.S. Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET)",Diabetes,"RR 1.20",1.08,1.34,,Significant,"Not Adjusted",Extracted
+65c2b7ceb604,"Interim Analysis of Risk Factors for Severe Outcomes among a Cohort of Hospitalized Adults Identified through the U.S. Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET)","Chronic respiratory diseases","RR 1.25",1.09,1.44,,Significant,"Not Adjusted",Extracted
+6e4b1ef31520,"Interim Analysis of Risk Factors for Severe Outcomes among a Cohort of Hospitalized Adults Identified through the U.S. Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET)","Immune system disorders","RR 1.39",1.22,1.58,,Significant,"Not Adjusted",Extracted
+6f1c242689b1,"Interim Analysis of Risk Factors for Severe Outcomes among a Cohort of Hospitalized Adults Identified through the U.S. Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET)","Heart Disease","RR 0.98",0.88,1.09,,"Not Significant",Adjusted,Extracted
+7b24da0d8523,"Interim Analysis of Risk Factors for Severe Outcomes among a Cohort of Hospitalized Adults Identified through the U.S. Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET)","Overweight or obese","RR 1.25",1.14,1.37,,Significant,"Not Adjusted",Extracted
+87c8f9d95577,"Interim Analysis of Risk Factors for Severe Outcomes among a Cohort of Hospitalized Adults Identified through the U.S. Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET)","Smoking Status","RR 1.07",0.92,1.24,,"Not Significant",Adjusted,Extracted
+9233e75cf89a,"Interim Analysis of Risk Factors for Severe Outcomes among a Cohort of Hospitalized Adults Identified through the U.S. Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET)","Race_ Other vs","RR 1.06",0.83,1.37,,"Not Significant",Adjusted,Extracted
+939511f41948,"Interim Analysis of Risk Factors for Severe Outcomes among a Cohort of Hospitalized Adults Identified through the U.S. Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET)","Neurological disorders","RR 0.85",0.7,1.04,,"Not Significant",Adjusted,Extracted
+abb36e5811b6,"Interim Analysis of Risk Factors for Severe Outcomes among a Cohort of Hospitalized Adults Identified through the U.S. Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET)","Chronic respiratory diseases","RR 1.17",1.0,1.37,,"Not Significant",Adjusted,Extracted
+b57772424da1,"Interim Analysis of Risk Factors for Severe Outcomes among a Cohort of Hospitalized Adults Identified through the U.S. Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET)",Hypertension,"RR 1.13",1.01,1.27,,Significant,"Not Adjusted",Extracted
+c0ba70ae55e1,"Interim Analysis of Risk Factors for Severe Outcomes among a Cohort of Hospitalized Adults Identified through the U.S. Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET)","Autoimmune disorders","RR 0.96",0.74,1.26,,"Not Significant","Not Adjusted",Extracted
+c2dc4dfcf7fc,"Interim Analysis of Risk Factors for Severe Outcomes among a Cohort of Hospitalized Adults Identified through the U.S. Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET)","Ethnicity_ Hispanic vs","RR 0.86",0.69,1.09,,"Not Significant","Not Adjusted",Extracted
+c5ee469b64f6,"Interim Analysis of Risk Factors for Severe Outcomes among a Cohort of Hospitalized Adults Identified through the U.S. Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET)","Race_ Other vs","RR 1.03",0.89,1.18,,"Not Significant","Not Adjusted",Extracted
+e0cac441c939,"Interim Analysis of Risk Factors for Severe Outcomes among a Cohort of Hospitalized Adults Identified through the U.S. Coronavirus Disease 2019 (COVID-19)-Associated Hospitalization Surveillance Network (COVID-NET)",Diabetes,"RR 1.13",1.03,1.24,,Significant,Adjusted,Extracted
+d7565403492e,"Is diabetes mellitus associated with mortality and severity of COVID-19? A meta-analysis",Diabetes,"OR 2.75",2.09,3.62,,Significant,"Not Adjusted",Extracted
+3d7e6619de33,"Key predictors of attending hospital with COVID19: An association study from the COVID Symptom Tracker App in 2,618,948 individuals","Male gender","OR 2.14",1.72,2.66,,,,
+c83ebfa3c5f8,"Key predictors of attending hospital with COVID19: An association study from the COVID Symptom Tracker App in 2,618,948 individuals","Overweight or obese","OR 1.33",1.04,1.7,,,,
+90a9ca998fe9,"Key to successful treatment of COVID-19: accurate identification of severe risks and early intervention of disease progression","Male gender","OR 2.22",0.89,5.54,0.09,"Not Significant","Not Adjusted",Calculated
+b1b8fc7b1de8,"Kidney Allograft Recipients Diagnosed with Coronavirus Disease-2019: A Single Center Report","Male gender","OR 4.43",1.23,15.9,0.02,Significant,"Not Adjusted",Calculated
+11b006e3f300,"Longitudinal association between markers of liver injury and mortality in COVIDâ€19 in China","Chronic liver disease","OR 1.74",1.08,2.8,0.02,Significant,"Not Adjusted",Calculated
+b317193cd8da,"Longitudinal association between markers of liver injury and mortality in COVIDâ€19 in China","Male gender","OR 1.51",1.32,1.71,0,"Not Significant","Not Adjusted",Calculated
+26bd99dad6ce,"Low dose of hydroxychloroquine reduces fatality of critically ill patients with COVID-19",COPD,,,,,,,
+2a341f63eaa1,"Low dose of hydroxychloroquine reduces fatality of critically ill patients with COVID-19",Diabetes,,,,,,,
+40ea9be10584,"Low dose of hydroxychloroquine reduces fatality of critically ill patients with COVID-19",Age,,,,,,,
+492cf5f9b2d6,"Low dose of hydroxychloroquine reduces fatality of critically ill patients with COVID-19",Hypertension,,,,,,,
+69a6b1b8f48a,"Low dose of hydroxychloroquine reduces fatality of critically ill patients with COVID-19",Diabetes,,,,,,,
+72b33f744d6f,"Low dose of hydroxychloroquine reduces fatality of critically ill patients with COVID-19","Heart Disease",,,,,,,
+83987a27dd38,"Low dose of hydroxychloroquine reduces fatality of critically ill patients with COVID-19","Heart Disease",,,,,,,
+87b89e55f6bb,"Low dose of hydroxychloroquine reduces fatality of critically ill patients with COVID-19",Age,,,,,,,
+a17947c8e9cd,"Low dose of hydroxychloroquine reduces fatality of critically ill patients with COVID-19",Hypertension,,,,,,,
+c6e67a1303d2,"Low dose of hydroxychloroquine reduces fatality of critically ill patients with COVID-19",COPD,,,,,,,
+7ac5156d594f,"Lung disease severity, Coronary Artery Calcium, Coronary inflammation and Mortality in Coronavirus Disease 2019","Heart Disease",,,,,,,
+bca2c85bc13c,"Lung disease severity, Coronary Artery Calcium, Coronary inflammation and Mortality in Coronavirus Disease 2021","Male gender",,,,,,,
+9e0598aabdc9,"Lung disease severity, Coronary Artery Calcium, Coronary inflammation and Mortality in Coronavirus Disease 2022",Hypertension,,,,,,,
+ecb0b41934eb,"Lung disease severity, Coronary Artery Calcium, Coronary inflammation and Mortality in Coronavirus Disease 2024",Diabetes,,,,,,,
+1f692a625c98,"Lung disease severity, Coronary Artery Calcium, Coronary inflammation and Mortality in Coronavirus Disease 2025","Smoking Status",,,,,,,
+20371e51acf0,"Lung disease severity, Coronary Artery Calcium, Coronary inflammation and Mortality in Coronavirus Disease 2026","Overweight or obese",,,,,,,
+dbcbdfe1af3e,"Lung disease severity, Coronary Artery Calcium, Coronary inflammation and Mortality in Coronavirus Disease 2026","Overweight or obese",,,,,,,
+0545808c9661,"Morbid Obesity as an Independent Risk Factor for COVID-19 Mortality in Hospitalized Patients Younger than 50.","Race_ Black vs",,,,,,,
+097822482403,"Morbid Obesity as an Independent Risk Factor for COVID-19 Mortality in Hospitalized Patients Younger than 50.","Chronic kidney disease",,,,,,,
+1f3c07eb0f68,"Morbid Obesity as an Independent Risk Factor for COVID-19 Mortality in Hospitalized Patients Younger than 50.",Hypertension,,,,,,,
+2333d6f4afc1,"Morbid Obesity as an Independent Risk Factor for COVID-19 Mortality in Hospitalized Patients Younger than 50.",Diabetes,,,,,,,
+2534ed604f03,"Morbid Obesity as an Independent Risk Factor for COVID-19 Mortality in Hospitalized Patients Younger than 50.","Overweight or obese",,,,,,,
+298ff7b76b0b,"Morbid Obesity as an Independent Risk Factor for COVID-19 Mortality in Hospitalized Patients Younger than 50.","Smoking Status",,,,,,,
+2d9d03a023ad,"Morbid Obesity as an Independent Risk Factor for COVID-19 Mortality in Hospitalized Patients Younger than 50.",Hypertension,,,,,,,
+3b728749d009,"Morbid Obesity as an Independent Risk Factor for COVID-19 Mortality in Hospitalized Patients Younger than 50.","Heart Failure",,,,,,,
+49657a0ca0d8,"Morbid Obesity as an Independent Risk Factor for COVID-19 Mortality in Hospitalized Patients Younger than 50.",Cancer,,,,,,,
+559de5be3cb1,"Morbid Obesity as an Independent Risk Factor for COVID-19 Mortality in Hospitalized Patients Younger than 50.","Heart Failure",,,,,,,
+814f668c254b,"Morbid Obesity as an Independent Risk Factor for COVID-19 Mortality in Hospitalized Patients Younger than 50.",Cancer,,,,,,,
+92339469b93f,"Morbid Obesity as an Independent Risk Factor for COVID-19 Mortality in Hospitalized Patients Younger than 50.","Overweight or obese",,,,,,,
+a5fc9f2f44d0,"Morbid Obesity as an Independent Risk Factor for COVID-19 Mortality in Hospitalized Patients Younger than 50.","Race_ Black vs",,,,,,,
+a628a86ff749,"Morbid Obesity as an Independent Risk Factor for COVID-19 Mortality in Hospitalized Patients Younger than 50.","Race_ Other vs",,,,,,,
+be06d83ff142,"Morbid Obesity as an Independent Risk Factor for COVID-19 Mortality in Hospitalized Patients Younger than 50.","Race_ Other vs",,,,,,,
+c9e404df1110,"Morbid Obesity as an Independent Risk Factor for COVID-19 Mortality in Hospitalized Patients Younger than 50.",Diabetes,,,,,,,
+d54f2e0831a3,"Morbid Obesity as an Independent Risk Factor for COVID-19 Mortality in Hospitalized Patients Younger than 50.","Heart Disease",,,,,,,
+dc5028daf79d,"Morbid Obesity as an Independent Risk Factor for COVID-19 Mortality in Hospitalized Patients Younger than 50.","Heart Disease",,,,,,,
+e1a36a2b0ff5,"Morbid Obesity as an Independent Risk Factor for COVID-19 Mortality in Hospitalized Patients Younger than 50.","Smoking Status",,,,,,,
+f08b3153a800,"Morbid Obesity as an Independent Risk Factor for COVID-19 Mortality in Hospitalized Patients Younger than 50.","Chronic kidney disease",,,,,,,
+72f46b9d456b,"Multicenter cohort study demonstrates more consolidation in upper lungs on initial CT increases the risk of adverse clinical outcome in COVID-19 patients","Male gender","OR 1.69",0.98,2.94,0.06,"Not Significant","Not Adjusted",Calculated
+86eda7d05f29,"Multicenter cohort study demonstrates more consolidation in upper lungs on initial CT increases the risk of adverse clinical outcome in COVID-19 patients",Diabetes,"OR 3.27",1.39,7.71,0.01,Significant,"Not Adjusted",Calculated
+cde55e1b1284,"Multicenter cohort study demonstrates more consolidation in upper lungs on initial CT increases the risk of adverse clinical outcome in COVID-19 patients",Hypertension,"OR 2.79",1.52,5.12,<0.01,Significant,"Not Adjusted",Calculated
+5f12b324834b,"Myocardial injury is associated with in-hospital mortality of confirmed or suspected COVID-19 in Wuhan, China: A single center retrospective cohort study",Age,,,,,,,Age
+63799403623c,"Myocardial injury is associated with in-hospital mortality of confirmed or suspected COVID-19 in Wuhan, China: A single center retrospective cohort study","Cerebrovascular disease",,,,,,,"Previous stroke"
+05dbc6085aab,"Neurological Manifestations of Hospitalized Patients with COVID-19 in Wuhan, China: a retrospective case series study","Cardio- and cerebrovascular disease","OR 1.27",0.44,3.65,0.65,"Not Significant","Not Adjusted",Calculated
+eeb9dbb3ba16,"Neurological Manifestations of Hospitalized Patients with COVID-19 in Wuhan, China: a retrospective case series study",Cancer,"OR 0.89",0.28,2.81,0.84,"Not Significant","Not Adjusted",Calculated
+0f37f17cf58c,"Neutrophil-to-lymphocyte ratio as an independent risk factor for mortality in hospitalized patients with COVID-19","Smoking Status",,,,,,,
+385e34ce8558,"Neutrophil-to-lymphocyte ratio as an independent risk factor for mortality in hospitalized patients with COVID-19",Cancer,,,,,,,
+98f3c06010d5,"Neutrophil-to-lymphocyte ratio as an independent risk factor for mortality in hospitalized patients with COVID-19",COPD,,,,,,,
+ac815411bf55,"Neutrophil-to-lymphocyte ratio as an independent risk factor for mortality in hospitalized patients with COVID-19","Heart Disease",,,,,,,
+d37538f9b0f6,"Neutrophil-to-lymphocyte ratio as an independent risk factor for mortality in hospitalized patients with COVID-19","Overweight or obese",,,,,,,
+65637e473307,"Neutrophil-to-Lymphocyte Ratio Predicts Severe Illness Patients with 2019 Novel Coronavirus in the Early Stage",Drinking,"OR 2.88",0.8,10.38,0.11,"Not Significant","Not Adjusted",Calculated
+6eb9bba41588,"No Clear Benefit to the Use of Corticosteroid as Treatment in Adult Patients with Coronavirus Disease 2019 : A Retrospective Cohort Study","Male gender","OR 2.43",1.15,5.14,0.02,,,
+fecfd8116a47,"Non-severe vs severe symptomatic COVID-19: 104 cases from the outbreak on the cruise ship Â“Diamond PrincessÂ” in Japan","Smoking Status",,,,,,,Calculated
+04d738a5f4dc,"Obesity and COVID-19 Severity in a Designated Hospital in Shenzhen, China","Male gender","OR 2.35",1.44,3.82,0,,,
+398008a7aeb9,"Obesity and COVID-19 Severity in a Designated Hospital in Shenzhen, China","Chronic liver disease","OR 1.07",0.38,3.04,0.89,,,
+3c433df14c3a,"Obesity and COVID-19 Severity in a Designated Hospital in Shenzhen, China","Overweight or obese","OR 2.14",1.33,3.45,0,,,
+b0f0d819ab1b,"Obesity and COVID-19 Severity in a Designated Hospital in Shenzhen, China","Heart Disease","OR 3.50",1.72,7.12,0,,,
+21ebd9b2bf45,"Obesity and COVID-19 Severity in a Designated Hospital in Shenzhen, China.",Hypertension,"OR 2.07",1.14,3.76,0.02,,,
+c01b2fab7724,"Obesity and COVID-19 Severity in a Designated Hospital in Shenzhen, China.",Diabetes,"OR 4.28",1.78,10.28,0,,,
+c4a3ed33663a,"Obesity and COVID-19 Severity in a Designated Hospital in Shenzhen, China.",COPD,"OR 2.39",1.13,5.06,0.02,,,
+2bf7baad3974,"Obesity and COVID-19: an Italian snapshot",Age,,,,,,,
+575ca2e1598f,"Obesity and COVID-19: an Italian snapshot",Diabetes,,,,,,,
+634289acfad5,"Obesity and COVID-19: an Italian snapshot",Dementia,,,,,,,
+97fe1e470c67,"Obesity and COVID-19: an Italian snapshot","Male gender",,,,,,,
+c1f4f8eb7874,"Obesity and COVID-19: an Italian snapshot","Chronic respiratory diseases",,,,,,,
+da12aa745107,"Obesity and COVID-19: an Italian snapshot","Overweight or obese",,,,,,,
+13a984731b08,"Obesity as a risk factor for greater severity of COVID-19 in patients with metabolic associated fatty liver disease","Overweight or obese","AOR 6.25",1.23,31.71,0.03,Significant,Adjusted,Extracted
+a92cc3ac86fd,"Obesity as a risk factor for greater severity of COVID-19 in patients with metabolic associated fatty liver disease","Overweight or obese","OR 5.77",1.19,27.91,0.03,Significant,"Not Adjusted",Extracted
+fd4dca0444d4,"Obesity as a risk factor for greater severity of COVID-19 in patients with metabolic associated fatty liver disease","Overweight or obese","AOR 6.32",1.16,34.54,0.03,Significant,Adjusted,Extracted
+02cedb70bf5e,"Obesity as a risk factor for poor outcome in COVID-19-induced lung injury: the potential role of undiagnosed obstructive sleep apnoea","Heart Disease","OR 0.70",0.34,1.44,0.34,"Not significant","Not Adjusted",Calculated
+37a7b5cdaaf8,"Obesity as a risk factor for poor outcome in COVID-19-induced lung injury: the potential role of undiagnosed obstructive sleep apnoea",Diabetes,"OR 1.02",0.47,2.19,0.97,"Not significant","Not Adjusted",Calculated
+a22ac6abc6ce,"Obesity as a risk factor for poor outcome in COVID-19-induced lung injury: the potential role of undiagnosed obstructive sleep apnoea","Chronic respiratory diseases","OR 1.08",0.38,3.08,0.89,"Not significant","Not Adjusted",Calculated
+c26635f4eece,"Obesity as a risk factor for poor outcome in COVID-19-induced lung injury: the potential role of undiagnosed obstructive sleep apnoea",Cancer,"OR 1.08",0.38,3.08,0.89,"Not significant","Not Adjusted",Calculated
+e0c60c7fad8c,"Obesity as a risk factor for poor outcome in COVID-19-induced lung injury: the potential role of undiagnosed obstructive sleep apnoea",Hypertension,"OR 0.52",0.25,1.08,0.08,"Not significant","Not Adjusted",Calculated
+30ef49978373,"Obesity in patients younger than 60 years is a risk factor for Covid-19 hospital admission","Overweight or obese","OR 1.8",1.2,2.7,<0.01,Significant,Adjusted,Extracted
+fde9182e868e,"Obesity in patients younger than 60 years is a risk factor for Covid-19 hospital admission","Overweight or obese","OR 1.1",0.8,1.7,0.57,"Not Significant",Adjusted,Extracted
+0f016fc78bab,"OpenSAFELY: factors associated with COVID-19-related hospital death in the linked electronic health records of 17 million adult NHS patients.","Autoimmune disorders",,,,,,,
+18a6ee06aa51,"OpenSAFELY: factors associated with COVID-19-related hospital death in the linked electronic health records of 17 million adult NHS patients.","Overweight or obese",,,,,,,
+22e80ec26a5c,"OpenSAFELY: factors associated with COVID-19-related hospital death in the linked electronic health records of 17 million adult NHS patients.","Immune system disorders",,,,,,,
+53b337b23fff,"OpenSAFELY: factors associated with COVID-19-related hospital death in the linked electronic health records of 17 million adult NHS patients.","Race_ Asian vs",,,,,,,
+594e11be1697,"OpenSAFELY: factors associated with COVID-19-related hospital death in the linked electronic health records of 17 million adult NHS patients.","Neurological disorders",,,,,,,
+6e764ee13cfd,"OpenSAFELY: factors associated with COVID-19-related hospital death in the linked electronic health records of 17 million adult NHS patients.","Race_ Other vs",,,,,,,
+9c6849506e32,"OpenSAFELY: factors associated with COVID-19-related hospital death in the linked electronic health records of 17 million adult NHS patients.","Chronic liver disease",,,,,,,
+9dc82de81bac,"OpenSAFELY: factors associated with COVID-19-related hospital death in the linked electronic health records of 17 million adult NHS patients.","Smoking Status",,,,,,,
+afbf82c34cf1,"OpenSAFELY: factors associated with COVID-19-related hospital death in the linked electronic health records of 17 million adult NHS patients.","Chronic kidney disease",,,,,,,
+bf5f67faf0b0,"OpenSAFELY: factors associated with COVID-19-related hospital death in the linked electronic health records of 17 million adult NHS patients.",Cancer,,,,,,,
+d405cd73cf11,"OpenSAFELY: factors associated with COVID-19-related hospital death in the linked electronic health records of 17 million adult NHS patients.","Male gender",,,,,,,
+e099d570e2de,"OpenSAFELY: factors associated with COVID-19-related hospital death in the linked electronic health records of 17 million adult NHS patients.","Race_ Black vs",,,,,,,
+ee2cb41021f9,"OpenSAFELY: factors associated with COVID-19-related hospital death in the linked electronic health records of 17 million adult NHS patients.",Diabetes,,,,,,,
+f5897a182797,"OpenSAFELY: factors associated with COVID-19-related hospital death in the linked electronic health records of 17 million adult NHS patients.","Heart Disease",,,,,,,
+fbca2f180f5f,"OpenSAFELY: factors associated with COVID-19-related hospital death in the linked electronic health records of 17 million adult NHS patients.",Asthma,,,,,,,
+7abc4f863148,"Outcomes from COVID-19 across the range of frailty: excess mortality in fitter older people","Race_ Black vs",,,,,,,
+bcb06f026531,"Outcomes from COVID-19 across the range of frailty: excess mortality in fitter older people","Race_ Black vs",,,,,,,
+1615516a77b3,"Outcomes of the 2019 Novel Coronavirus in patients with or without a history of cancer - a multi-centre North London experience",Cancer,"OR 0.68",0.2,2.32,0.53,"Not Significant","Not Adjusted",Calculated
+e005ed85fd73,"Patients with arterial hypertension and COVID-19 are at higher risk of ICU admission",Hypertension,"OR 2.54",1.83,3.54,,Significant,"Not Adjusted",Extracted
+0eee99bffc34,"Pharmacological characteristics of patients infected with SARS-Cov-2 admitted to Intensive Care Unit in South of France",Diabetes,"OR 0.54",0.18,1.58,0.26,"Not Significant","Not Adjusted",Calculated
+1aae3d274bfd,"Pharmacological characteristics of patients infected with SARS-Cov-2 admitted to Intensive Care Unit in South of France",Hypertension,"OR 1.52",0.54,4.27,0.42,"Not Significant","Not Adjusted",Calculated
+8aa6fc782949,"Pharmacological characteristics of patients infected with SARS-Cov-2 admitted to Intensive Care Unit in South of France","Heart Disease","OR 0.45",0.14,1.53,0.2,"Not Significant","Not Adjusted",Calculated
+a48798e6dac6,"Pharmacological characteristics of patients infected with SARS-Cov-2 admitted to Intensive Care Unit in South of France","Overweight or obese","OR 2.55",0.92,7.06,0.07,"Not Significant","Not Adjusted",Calculated
+07cf9f4fcdc4,"Phenotypic characteristics and prognosis of inpatients with COVID-19 and diabetes: the CORONADO study",Hypertension,"OR: 1.23",0.92,1.65,,"Not Significant","Not Adjusted",Extracted
+1706fc943960,"Phenotypic characteristics and prognosis of inpatients with COVID-19 and diabetes: the CORONADO study",Cancer,"OR: 1.08",0.77,1.5,,"Not Significant","Not Adjusted",Extracted
+1e0dbc02c3ad,"Phenotypic characteristics and prognosis of inpatients with COVID-19 and diabetes: the CORONADO study",COPD,"OR: 0.96",0.64,1.43,,"Not Significant","Not Adjusted",Extracted
+7530b10ae0f1,"Phenotypic characteristics and prognosis of inpatients with COVID-19 and diabetes: the CORONADO study","Chronic kidney disease","OR: 0.66",0.35,1.27,,"Not Significant","Not Adjusted",Extracted
+e027dee484fb,"Phenotypic characteristics and prognosis of inpatients with COVID-19 and diabetes: the CORONADO study","Chronic liver disease","OR: 1.23",0.81,1.86,,"Not Significant","Not Adjusted",Extracted
+faf3ced34f56,"Phenotypic characteristics and prognosis of inpatients with COVID-19 and diabetes: the CORONADO study","Heart Failure","OR: 0.78",0.52,1.17,,"Not Significant","Not Adjusted",Extracted
+fd9a067dc93f,"Phenotypic characteristics and prognosis of inpatients with COVID-19 and diabetes: the CORONADO study",Age,"OR: 1.00",0.99,1.01,,"Not Significant","Not Adjusted",Extracted
+34ec81c1ec19,"Plasma albumin levels predict risk for nonsurvivors in critically ill patients with COVID-19",Hypertension,"OR 1.64",0.79,3.4,0.18,"Not Significant","Not Adjusted",Calculated
+431572a6647d,"Plasma albumin levels predict risk for nonsurvivors in critically ill patients with COVID-19",Diabetes,"OR 1.62",0.74,3.54,0.23,"Not Significant","Not Adjusted",Calculated
+847cae529ecc,"Plasma albumin levels predict risk for nonsurvivors in critically ill patients with COVID-19","Smoking Status","OR 0.86",0.34,2.17,0.75,"Not Significant","Not Adjusted",Calculated
+8b048759a2e1,"Plasma albumin levels predict risk for nonsurvivors in critically ill patients with COVID-19","Neurological disorders","OR 1.20",0.49,2.96,0.69,"Not Significant","Not Adjusted",Calculated
+acce16963b70,"Plasma albumin levels predict risk for nonsurvivors in critically ill patients with COVID-19","Chronic digestive disorders","OR 2.14",0.81,5.64,0.12,"Not Significant","Not Adjusted",Calculated
+af237eadcbf3,"Plasma albumin levels predict risk for nonsurvivors in critically ill patients with COVID-19","Heart Disease","OR 2.39",1.19,4.82,<0.05,Significant,"Not Adjusted",Calculated
+0e602e3b008b,"Pre-Existing Characteristics Associated with Covid-19 Illness Severity",Hypertension,"AOR 1.97",1.27,3.05,<0.05,Significant,Adjusted,Extracted
+0ee03f3ad5ba,"Pre-Existing Characteristics Associated with Covid-19 Illness Severity","Chronic respiratory diseases","AOR 1.23",0.75,2.03,0.41,"Not Significant",Adjusted,Extracted
+195ed8e8736b,"Pre-Existing Characteristics Associated with Covid-19 Illness Severity","Male gender","AOR 2.01",1.34,3.04,<0.05,Significant,Adjusted,Extracted
+31ebcb869154,"Pre-Existing Characteristics Associated with Covid-19 Illness Severity","Race_ Black vs","AOR 2.13",1.19,3.83,<0.05,Significant,Adjusted,Extracted
+3b59fc9f8d18,"Pre-Existing Characteristics Associated with Covid-19 Illness Severity","Overweight or obese","AOR 1.95",1.11,3.42,<0.05,Significant,Adjusted,Extracted
+49a102fadaf7,"Pre-Existing Characteristics Associated with Covid-19 Illness Severity","Ethnicity_ Hispanic vs","AOR 1.54",0.91,2.6,0.11,"Not Significant",Adjusted,Extracted
+4c86afa5dab1,"Pre-Existing Characteristics Associated with Covid-19 Illness Severity","Chronic respiratory diseases","AOR 0.76",0.44,1.31,0.34,"Not Significant",Adjusted,Extracted
+50caf4372249,"Pre-Existing Characteristics Associated with Covid-19 Illness Severity",Diabetes,"AOR 1.77",1.03,3.03,<0.05,Significant,Adjusted,Extracted
+5f64e117e27c,"Pre-Existing Characteristics Associated with Covid-19 Illness Severity",Diabetes,"AOR 2.25",1.41,3.57,<0.05,Significant,Adjusted,Extracted
+69a34dd64452,"Pre-Existing Characteristics Associated with Covid-19 Illness Severity",Hypertension,"AOR 1.19",0.71,1.99,0.52,"Not Significant",Adjusted,Extracted
+bb277870c906,"Pre-Existing Characteristics Associated with Covid-19 Illness Severity","Ethnicity_ Hispanic vs","AOR 1.39",0.79,2.45,0.26,"Not Significant",Adjusted,Extracted
+bfd17af45aec,"Pre-Existing Characteristics Associated with Covid-19 Illness Severity","Male gender","AOR 1.87",1.26,2.77,<0.05,Significant,Adjusted,Extracted
+c41358c82753,"Pre-Existing Characteristics Associated with Covid-19 Illness Severity","Race_ Black vs","AOR 2.46",1.45,4.18,<0.05,Significant,Adjusted,Extracted
+ce5de38f09a6,"Pre-Existing Characteristics Associated with Covid-19 Illness Severity","Overweight or obese","AOR 1.96",1.19,3.24,<0.05,Significant,Adjusted,Extracted
+7043373023ea,"Predicting COVID-19 malignant progression with AI techniques","Cardio- and cerebrovascular disease","OR 8.36",3.1,22.6,<0.01,,,
+7c5b2f2b2c1c,"Predicting COVID-19 malignant progression with AI techniques","Chronic digestive disorders","OR 1.24",0.47,3.22,0.66,,,
+7bacf5a71fc3,"Prediction for Progression Risk in Patients with COVID-19 Pneumonia: the CALL Score","Smoking Status","OR 2.10",0.75,5.93,0.16,"Not Significant","Not Adjusted",Calculated
+caf5a29b2c51,"Prediction of the clinical outcome of COVID-19 patients using T lymphocyte subsets with 340 cases from Wuhan, China: a retrospective cohort study and a web visualization tool","Male gender",,,,,,,
+fe333691831f,"Prediction of the clinical outcome of COVID-19 patients using T lymphocyte subsets with 340 cases from Wuhan, China: a retrospective cohort study and a web visualization tool",Age,,,,,,,
+73a6cd6b2cda,"Predictive factors for disease progression in hospitalized patients with Coronavirus Disease 2019 in Wuhan, China",Diabetes,"OR 17.6",4.84,63.98,<0.01,,,
+8443e0983c5a,"Predictive factors for disease progression in hospitalized patients with Coronavirus Disease 2019 in Wuhan, China",Hypertension,"OR 22.0",6.03,80.3,<0.01,,,
+22c18bb54371,"Predictive symptoms and comorbidities for severe COVID-19 and intensive care unit admission: a systematic review and meta-analysis","Heart Disease","OR 2.7",1.52,4.8,,Significant,"Not Adjusted",Extracted
+5d51bc7ba3d3,"Predictive symptoms and comorbidities for severe COVID-19 and intensive care unit admission: a systematic review and meta-analysis",COPD,"OR 17.8",6.56,48.2,,Significant,"Not Adjusted",Extracted
+6ef7400ab510,"Predictive symptoms and comorbidities for severe COVID-19 and intensive care unit admission: a systematic review and meta-analysis",Hypertension,"OR 3.65",2.22,5.99,,Significant,"Not Adjusted",Extracted
+78409d1ba3b0,"Predictive symptoms and comorbidities for severe COVID-19 and intensive care unit admission: a systematic review and meta-analysis","Heart Disease","OR 4.44",2.64,7.47,,Significant,"Not Adjusted",Extracted
+80f781072e09,"Predictive symptoms and comorbidities for severe COVID-19 and intensive care unit admission: a systematic review and meta-analysis",COPD,"OR 6.42",2.44,16.9,,Significant,"Not Adjusted",Extracted
+8598b419d894,"Predictive symptoms and comorbidities for severe COVID-19 and intensive care unit admission: a systematic review and meta-analysis",Hypertension,"OR 1.97",1.4,2.77,,Significant,"Not Adjusted",Extracted
+f59b89650616,"Predictive symptoms and comorbidities for severe COVID-19 and intensive care unit admission: a systematic review and meta-analysis",Diabetes,"OR 2.72",0.7,10.6,,"Not Significant","Not Adjusted",Extracted
+f9d80f23c36d,"Predictive symptoms and comorbidities for severe COVID-19 and intensive care unit admission: a systematic review and meta-analysis",Diabetes,"OR 3.12",1.0,9.75,,Significant,"Not Adjusted",Extracted
+1461bcd2d96f,"Predictors of mortality for patients with COVID-19 pneumonia caused by SARS-CoV-2: a prospective cohort study","Cardio- and cerebrovascular disease",,,,,,,
+988a1c5e88bc,"Predictors of mortality for patients with COVID-19 pneumonia caused by SARS-CoV-2: a prospective cohort study","Cardio- and cerebrovascular disease",,,,,,,
+4410609213f9,"Predictors of mortality in hospitalized COVID-19 patients: A systematic review and meta-analysis.",Hypertension,,,,,,,
+59e19c875b04,"Predictors of mortality in hospitalized COVID-19 patients: A systematic review and meta-analysis.","Cerebrovascular disease",,,,,,,
+adedb7f62df9,"Predictors of mortality in hospitalized COVID-19 patients: A systematic review and meta-analysis.",COPD,,,,,,,
+af53f36114b0,"Predictors of mortality in hospitalized COVID-19 patients: A systematic review and meta-analysis.","Heart Disease",,,,,,,
+b3f18922fc32,"Predictors of mortality in hospitalized COVID-19 patients: A systematic review and meta-analysis.","Smoking Status",,,,,,,
+c54f6f20efb7,"Predictors of mortality in hospitalized COVID-19 patients: A systematic review and meta-analysis.","Chronic kidney disease",,,,,,,
+f256764f6bba,"Predictors of mortality in hospitalized COVID-19 patients: A systematic review and meta-analysis.",Diabetes,,,,,,,
+75673d220aa9,"Preliminary Estimates of the Prevalence of Selected Underlying Health Conditions Among Patients with Coronavirus Disease 2019 — United States, February 12–March 28, 2020 [MMWR Morb Mortal Wkly Rep]","Chronic kidney disease","OR 6.57",4.8,9.0,<0.01,Significant,"Not Adjusted",Calculated
+80044dad1ed3,"Preliminary Estimates of the Prevalence of Selected Underlying Health Conditions Among Patients with Coronavirus Disease 2019 — United States, February 12–March 28, 2020 [MMWR Morb Mortal Wkly Rep]","Smoking Status","OR 3.06",2.16,4.36,<0.01,Significant,"Not Adjusted",Calculated
+9c6cd1103e3d,"Preliminary Estimates of the Prevalence of Selected Underlying Health Conditions Among Patients with Coronavirus Disease 2019 — United States, February 12–March 28, 2020 [MMWR Morb Mortal Wkly Rep]","Chronic respiratory diseases","OR 3.18",2.53,4.0,<0.01,Significant,"Not Adjusted",Calculated
+9e8f4e848874,"Preliminary Estimates of the Prevalence of Selected Underlying Health Conditions Among Patients with Coronavirus Disease 2019 — United States, February 12–March 28, 2020 [MMWR Morb Mortal Wkly Rep]","Neurological disorders","OR 2.74",1.23,6.11,0.01,Significant,"Not Adjusted",Calculated
+dc0804e3c2b7,"Preliminary Estimates of the Prevalence of Selected Underlying Health Conditions Among Patients with Coronavirus Disease 2019 — United States, February 12–March 28, 2020 [MMWR Morb Mortal Wkly Rep]","Immune system disorders","OR 3.38",2.4,4.76,<0.01,Significant,"Not Adjusted",Calculated
+f756d37e07e5,"Preliminary Estimates of the Prevalence of Selected Underlying Health Conditions Among Patients with Coronavirus Disease 2019 — United States, February 12–March 28, 2020 [MMWR Morb Mortal Wkly Rep]","Chronic liver disease","OR 3.49",1.54,7.91,<0.01,Significant,"Not Adjusted",Calculated
+02f127b88e0c,"Prevalence and impact of cardiovascular metabolic diseases on COVID-19 in China","Cardio- and cerebrovascular disease","RR: 3.30",2.03,5.36,<0.01,Significant,"Not Adjusted",Extracted
+6c75d7f7d3e9,"Prevalence and severity of corona virus disease 2019 (COVID-19): A systematic review and meta-analysis",Diabetes,,,,,,,
+868f23ae1320,"Prevalence and severity of corona virus disease 2019 (COVID-19): A systematic review and meta-analysis",Hypertension,,,,,,,
+de56105698c5,"Prevalence of comorbidities and its effects in patients infected with SARS-CoV-2: a systematic review and meta-analysis","Respiratory system diseases","OR 2.46",1.76,3.44,,Significant,"Not Adjusted",Extracted
+0b47e7d9cfc0,"Prevalence of comorbidities in the novel Wuhan coronavirus (COVID-19) infection: a systematic review and meta-analysis","Respiratory system diseases","OR 2.46",1.76,3.44,,Significant,"Not Adjusted",Extracted
+34b3e4152a80,"Prevalence, Severity and Mortality associated with COPD and Smoking in patients with COVID-19: A Rapid Systematic Review and Meta-Analysis","Smoking Status","RR 1.45",1.03,2.04,,Significant,"Not Adjusted",Extracted
+374a46d24ca4,"Prevalence, Severity and Mortality associated with COPD and Smoking in patients with COVID-19: A Rapid Systematic Review and Meta-Analysis [medrxiv]",COPD,"RR 1.88",1.4,2.04,,Significant,"Not Adjusted",Extracted
+67637da141c1,"Prognostic value of C-reactive protein in patients with COVID-19",Age,"OR 1.05",1.02,1.07,<0.01,Significant,"Not Adjusted",Extracted
+87fc26e539a6,"Prognostic value of C-reactive protein in patients with COVID-19","Chronic liver disease",,,,,,,
+9108dccc31c6,"Prognostic value of C-reactive protein in patients with COVID-19","Chronic respiratory diseases",,,,,,,
+a6030226148a,"Prognostic value of C-reactive protein in patients with COVID-19","Cerebrovascular disease",,,,,,,
+d2e18ef3e68d,"Prognostic value of C-reactive protein in patients with COVID-19","Smoking Status",,,,,,,
+990b3f15b885,"Prognostic value of NT-proBNP in patients with severe COVID-19",COPD,,,,,,,
+279123063c57,"Psychiatric Predictors of COVID-19 Outcomes in a Skilled Nursing Facility Cohort",COPD,"OR 11.14",1.83,67.89,0.01,Significant,"Not Adjusted",Extracted
+71c3d780dd1d,"Psychiatric Predictors of COVID-19 Outcomes in a Skilled Nursing Facility Cohort",Hypertension,"OR 0.16",0.02,1.19,0.07,"Not Significant","Not Adjusted",Extracted
+73552fb7ab53,"Psychiatric Predictors of COVID-19 Outcomes in a Skilled Nursing Facility Cohort","Chronic kidney disease","OR 0.77",0.09,6.48,0.81,"Not Significant","Not Adjusted",Extracted
+74756e5551ed,"Psychiatric Predictors of COVID-19 Outcomes in a Skilled Nursing Facility Cohort","Heart Disease","OR 11.58",1.4,95.98,0.02,Significant,"Not Adjusted",Extracted
+a704077d2632,"Psychiatric Predictors of COVID-19 Outcomes in a Skilled Nursing Facility Cohort",Dementia,"OR 0.47",0.07,3.06,0.43,"Not Significant","Not Adjusted",Extracted
+23a1e6c3eee9,"Radiographic Findings and other Predictors in Adults with Covid-19",Age,,,,,,,
+2ab591f6e5a0,"Risk Factors Associated with Clinical Outcomes in 323 COVID-19 Patients in Wuhan, China","Cardio- and cerebrovascular disease","OR 2.49 (95% CI: 1.07-5.79)",1.07,5.79,,Significant,"Not Adjusted",Calculated
+529a3aa63efb,"Risk Factors Associated with Clinical Outcomes in 323 COVID-19 Patients in Wuhan, China","Respiratory system diseases","OR 3.57",1.31,9.78,0.01,Significant,"Not Adjusted",Calculated
+97fe224d1aa1,"Risk Factors Associated with Clinical Outcomes in 323 COVID-19 Patients in Wuhan, China","Smoking Status","OR 2.12",1.0,4.47,0.05,"Not Significant","Not Adjusted",Extracted
+9d2fd4465fe6,"Risk Factors Associated with Clinical Outcomes in 323 COVID-19 Patients in Wuhan, China","Smoking Status","AOR 3.46",1.18,10.17,<0.01,Significant,Adjusted,Extracted
+a09b3f11117a,"Risk Factors Associated with Clinical Outcomes in 323 COVID-19 Patients in Wuhan, China","Cardio- and cerebrovascular disease","OR 6.53",2.75,15.5,<0.01,Significant,"Not Adjusted",Calculated
+c3f64db23cb8,"Risk Factors Associated with Clinical Outcomes in 323 COVID-19 Patients in Wuhan, China","Overweight or obese","OR 3.6",1.15,11.26,0.01,Significant,"Not Adjusted",Extracted
+fe6036bc9671,"Risk Factors Associated with Clinical Outcomes in 323 COVID-19 Patients in Wuhan, China","Neurological disorders",,,,,,,
+0d830174757e,"Risk factors for adverse clinical outcomes in patients with COVID-19: A systematic review and meta-analysis","Chronic respiratory diseases",,,,,,,
+2d8cdb0ac7bd,"Risk factors for adverse clinical outcomes in patients with COVID-19: A systematic review and meta-analysis","Endocrine diseases",OR=2.47,0.57,10.81,0.23,"Not Significant","Not Adjusted",Extracted
+3ffeebb22ee8,"Risk factors for adverse clinical outcomes in patients with COVID-19: A systematic review and meta-analysis",Hypertension,OR=3.03,0.73,12.57,0.13,"Not Significant","Not Adjusted",Extracted
+651c9d94778d,"Risk factors for adverse clinical outcomes in patients with COVID-19: A systematic review and meta-analysis",Diabetes,OR=2.06,0.77,5.5,0.15,"Not Significant","Not Adjusted",Extracted
+7179c363193c,"Risk factors for adverse clinical outcomes in patients with COVID-19: A systematic review and meta-analysis",COPD,,,,,,,
+848599f9c83e,"Risk factors for adverse clinical outcomes in patients with COVID-19: A systematic review and meta-analysis","Cerebrovascular disease",,,,,,,
+9261199edef6,"Risk factors for adverse clinical outcomes in patients with COVID-19: A systematic review and meta-analysis",Cancer,"OR 1.88",0.75,4.72,0.18,"Not Significant","Not Adjusted",Extracted
+97934c9ffea7,"Risk factors for adverse clinical outcomes in patients with COVID-19: A systematic review and meta-analysis","Chronic liver disease",OR=0.56,0.09,3.35,0.53,"Not Significant","Not Adjusted",Extracted
+9b4914c9d9ad,"Risk factors for adverse clinical outcomes in patients with COVID-19: A systematic review and meta-analysis","Chronic kidney disease",OR=1.20,0.13,10.82,0.87,"Not Significant","Not Adjusted",Extracted
+ab66df5bc499,"Risk factors for adverse clinical outcomes in patients with COVID-19: A systematic review and meta-analysis","Heart Disease",OR=3.44,1.62,7.32,<0.05,Significant,"Not Adjusted",Extracted
+b9dd5e9308e2,"Risk factors for adverse clinical outcomes in patients with COVID-19: A systematic review and meta-analysis","Smoking Status",,,,,,,
+c3bd2957fc7d,"Risk factors for adverse clinical outcomes in patients with COVID-19: A systematic review and meta-analysis","Chronic digestive disorders",,,,,,,
+71e5aa7e6c60,"Risk factors for clinical progression in patients with COVID-19: a retrospective study of electronic health record data in the United Kingdom","Race_ Asian vs",AOR=0.41,0.14,1.02,0.71,"Not Significant",Adjusted,Extracted
+7a231ce62439,"Risk factors for clinical progression in patients with COVID-19: a retrospective study of electronic health record data in the United Kingdom",Age,AOR=0.97,0.96,0.99,<0.05,Significant,Adjusted,Extracted
+838ffe42149e,"Risk factors for clinical progression in patients with COVID-19: a retrospective study of electronic health record data in the United Kingdom","Race_ Black vs",AOR=1.02,0.35,2.61,0.98,"Not Significant",Adjusted,Extracted
+e3de55b4cca2,"Risk factors for clinical progression in patients with COVID-19: a retrospective study of electronic health record data in the United Kingdom","Race_ Other vs",AOR=0.74,0.4,1.36,0.32,"Not Significant",Adjusted,Extracted
+37a703791dcb,"Risk factors for disease severity, unimprovement, and mortality of COVID-19 patients in Wuhan, China [Clinical Microbiology and Infection]","Male gender","OR 1.20",0.87,1.64,0.26,"Not Significant","Not Adjusted",Calculated
+6f7fa4727cf8,"Risk factors for disease severity, unimprovement, and mortality of COVID-19 patients in Wuhan, China [Clinical Microbiology and Infection]","Respiratory system diseases","OR 1.90",0.99,3.64,0.05,"Not Significant","Not Adjusted",Calculated
+9845613eb18b,"Risk factors for disease severity, unimprovement, and mortality of COVID-19 patients in Wuhan, China [Clinical Microbiology and Infection]","Heart Disease","OR 3.16",2.07,4.81,<0.01,Significant,"Not Adjusted",Calculated
+9ac755d1e0e6,"Risk factors for disease severity, unimprovement, and mortality of COVID-19 patients in Wuhan, China [Clinical Microbiology and Infection]","Chronic digestive disorders","OR 1.55",0.7,3.42,0.28,"Not Significant","Not Adjusted",Calculated
+b1f50cf11db8,"Risk factors for disease severity, unimprovement, and mortality of COVID-19 patients in Wuhan, China [Clinical Microbiology and Infection]","Endocrine diseases","OR 2.55",1.38,4.7,<0.01,Significant,"Not Adjusted",Calculated
+3c704f880272,"Risk Factors for Mortality in 244 Older Adults With COVID‐19 in Wuhan, China: A Retrospective Study",Age,,,,,,,
+9be8052c7d9d,"Risk Factors for Mortality in 244 Older Adults With COVID‐19 in Wuhan, China: A Retrospective Study",Hypertension,,,,,,,
+a1aff0131972,"Risk Factors for Mortality in 244 Older Adults With COVID‐19 in Wuhan, China: A Retrospective Study","Male gender",,,,,,,
+c005e63282e2,"Risk Factors for Mortality in 244 Older Adults With COVID‐19 in Wuhan, China: A Retrospective Study","Heart Disease",,,,,,,
+ffebe1d2494c,"Risk Factors for Mortality in 244 Older Adults With COVID‐19 in Wuhan, China: A Retrospective Study",Diabetes,,,,,,,
+16f6e15075dd,"Risk factors for predicting mortality in elderly patients with COVID-19: a review of clinical data in China","Male gender",,,,,,,
+a3df1387ce07,"Risk factors for predicting mortality in elderly patients with COVID-19: a review of clinical data in China",Age,,,,,,,
+243c289a6bda,"Risk factors for severe corona virus disease 2019 (COVID-19) patients : a systematic review and meta analysis","Smoking Status","OR 1.40",0.65,3.01,,"Not significant","Not Adjusted",Extracted
+41b5a6b7df3b,"Risk factors for severe corona virus disease 2019 (COVID-19) patients : a systematic review and meta analysis",COPD,"OR 3.56",1.33,9.54,,Significant,"Not Adjusted",Extracted
+f8eb3af054f1,"Risk factors for severe corona virus disease 2019 (COVID-19) patients : a systematic review and meta analysis",Age,"WMD 11.89",8.63,15.14,,Significant,"Not Adjusted",Extracted
+6e774defebea,"Risk factors for severe COVID-19: evidence from 167 hospitalized patients in Anhui","Heart Disease","OR 2.15",0.8,5.76,0.13,,,
+3d6a6f7a57bf,"Risk factors for severity and mortality in adult COVID-19 inpatients in Wuhan Risk factors for severity and mortality in adult COVID-19 1 inpatients in Wuhan","Male gender","HR 1.96",1.24,3.11,<0.01,Significant,"Not Adjusted",Extracted
+8607b7cc030f,"Risk factors for severity and mortality in adult COVID-19 inpatients in Wuhan Risk factors for severity and mortality in adult COVID-19 1 inpatients in Wuhan","Male gender","AHR 1.72",1.05,2.82,0.02,Significant,Adjusted,Extracted
+cf0fee2bae7b,"Risk factors for severity and mortality in adult COVID-19 inpatients in Wuhan Risk factors for severity and mortality in adult COVID-19 1 inpatients in Wuhan","Heart Disease","OR 5.29",2.15,12.98,<0.01,Significant,"Not Adjusted",Calculated
+f7f991e41ed8,"Risk factors for severity and mortality in adult COVID-19 inpatients in Wuhan Risk factors for severity and mortality in adult COVID-19 1 inpatients in Wuhan",Cancer,"OR 1.42",0.62,3.25,0.41,"Not Significant","Not Adjusted",Calculated
+065dd0418e81,"Risk factors of critical & mortal COVID-19 cases: A systematic literature review and meta-analysis",Hypertension,"OR: 2.72",1.6,4.64,,Significant,"Not Adjusted",Extracted
+32ec45cc6aaa,"Risk factors of critical & mortal COVID-19 cases: A systematic literature review and meta-analysis","Respiratory system diseases","OR 5.15",2.51,10.57,,Significant,"Not Adjusted",Extracted
+5c52dfe2c227,"Risk factors of critical & mortal COVID-19 cases: A systematic literature review and meta-analysis",Diabetes,"OR: 3.68",2.68,5.03,,Significant,"Not Adjusted",Extracted
+68be25642220,"Risk factors of critical & mortal COVID-19 cases: A systematic literature review and meta-analysis","Chronic respiratory diseases","OR: 5.15",2.51,10.57,,Significant,"Not Adjusted",Extracted
+6c271cafb483,"Risk factors of critical & mortal COVID-19 cases: A systematic literature review and meta-analysis",Cancer,"OR: 1.60",0.81,3.18,0.18,"Not Significant","Not Adjusted",Extracted
+a53ebf5d8e10,"Risk factors of critical & mortal COVID-19 cases: A systematic literature review and meta-analysis","Smoking Status","OR: 2.51",1.39,3.32,,Significant,"Not Adjusted",Extracted
+edac0c179db4,"Risk factors of critical & mortal COVID-19 cases: A systematic literature review and meta-analysis","Heart Disease","OR: 5.19",3.25,8.29,,Significant,"Not Adjusted",Extracted
+9daa693ce873,"Risk Factors of Fatal Outcome in Hospitalized Subjects With Coronavirus Disease 2019 From a Nationwide Analysis in China Q28","Heart Disease",,,,,,,
+c0a302e8d741,"Risk Factors of Fatal Outcome in Hospitalized Subjects With Coronavirus Disease 2019 From a Nationwide Analysis in China Q28","Cerebrovascular disease",,,,,,,
+5904d0f79ac7,"Risk Factors of the Severity of COVID-19: A Meta-Analysis","Smoking Status",RR=1.71,1.25,2.35,,Significant,"Not Adjusted",Extracted
+65d788996c7f,"Risk Factors of the Severity of COVID-19: A Meta-Analysis",Hypertension,RR=1.79,1.57,2.04,,Significant,"Not Adjusted",Extracted
+9c8cc6a0d092,"Risk Factors of the Severity of COVID-19: A Meta-Analysis",Diabetes,RR=1.57,1.25,1.98,,Significant,"Not Adjusted",Extracted
+f4c346ef833f,"Risk Factors of the Severity of COVID-19: A Meta-Analysis","Male gender",RR=1.29,1.07,1.54,,Significant,"Not Adjusted",Extracted
+05030a09ecbd,"Role of Drugs Affecting the Renin-Angiotensin-Aldosterone System on Susceptibility and Severity of COVID-19: A Large Case-Control Study from Zheijang Province, China.","Chronic liver disease","AOR: 0.83",0.32,2.18,0.71,"Not Significant",Adjusted,Extracted
+2d375b92e570,"Role of Drugs Affecting the Renin-Angiotensin-Aldosterone System on Susceptibility and Severity of COVID-19: A Large Case-Control Study from Zheijang Province, China.","Smoking Status","AOR: 1.08",0.56,2.08,0.82,"Not Significant",Adjusted,Extracted
+84bee1bbf6d5,"Role of Drugs Affecting the Renin-Angiotensin-Aldosterone System on Susceptibility and Severity of COVID-19: A Large Case-Control Study from Zheijang Province, China.",Hypertension,"AOR: 2.35",1.47,3.76,<0.01,Significant,Adjusted,Extracted
+89ce26a290d0,"Role of Drugs Affecting the Renin-Angiotensin-Aldosterone System on Susceptibility and Severity of COVID-19: A Large Case-Control Study from Zheijang Province, China.","Cardio- and cerebrovascular disease","AOR: 0.94",0.31,2.83,0.91,"Not Significant",Adjusted,Extracted
+a67d4e6792f4,"Role of Drugs Affecting the Renin-Angiotensin-Aldosterone System on Susceptibility and Severity of COVID-19: A Large Case-Control Study from Zheijang Province, China.",Age,"AOR: 1.05",1.03,1.06,,Significant,Adjusted,Extracted
+ceab5fd6f816,"Role of Drugs Affecting the Renin-Angiotensin-Aldosterone System on Susceptibility and Severity of COVID-19: A Large Case-Control Study from Zheijang Province, China.","Male gender","AOR: 2.32",1.54,3.5,,Significant,Adjusted,Extracted
+db353dcb31e7,"Role of Drugs Affecting the Renin-Angiotensin-Aldosterone System on Susceptibility and Severity of COVID-19: A Large Case-Control Study from Zheijang Province, China.",Cancer,"AOR: 1.94",0.5,7.52,0.34,"Not Significant",Adjusted,Extracted
+ed03407ad685,"Role of Drugs Affecting the Renin-Angiotensin-Aldosterone System on Susceptibility and Severity of COVID-19: A Large Case-Control Study from Zheijang Province, China.",Diabetes,"AOR: 1.2",0.64,2.24,0.57,"Not Significant",Adjusted,Extracted
+0c267b91b1f4,"Severe obesity is associated with higher in-hospital mortality in a cohort of patients with COVID-19 in the Bronx, New York","Smoking Status",AOR=1.66,0.76,3.62,0.21,"Not Significant",Adjusted,Extracted
+1317950b2bde,"Severe obesity is associated with higher in-hospital mortality in a cohort of patients with COVID-19 in the Bronx, New York","Overweight or obese",AOR=4.06,1.72,9.57,<0.05,Significant,Adjusted,Extracted
+1704468df2a0,"Severe obesity is associated with higher in-hospital mortality in a cohort of patients with COVID-19 in the Bronx, New York","Chronic kidney disease",OR=1.30,0.62,2.69,0.49,"Not Significant","Not Adjusted",Extracted
+33b001731c57,"Severe obesity is associated with higher in-hospital mortality in a cohort of patients with COVID-19 in the Bronx, New York",COPD,,,,,,,
+38f6187d4ef0,"Severe obesity is associated with higher in-hospital mortality in a cohort of patients with COVID-19 in the Bronx, New York",Diabetes,OR=1.95,0.98,3.88,0.06,"Not Significant","Not Adjusted",Extracted
+3ba1e9860072,"Severe obesity is associated with higher in-hospital mortality in a cohort of patients with COVID-19 in the Bronx, New York","Heart Failure",OR=1.45,0.62,3.41,0.39,"Not Significant","Not Adjusted",Extracted
+4e5494b8e92d,"Severe obesity is associated with higher in-hospital mortality in a cohort of patients with COVID-19 in the Bronx, New York","Heart Disease",OR=1.25,0.52,3.03,0.62,"Not Significant","Not Adjusted",Extracted
+52b4d420faca,"Severe obesity is associated with higher in-hospital mortality in a cohort of patients with COVID-19 in the Bronx, New York",COPD,,,,,,,
+854fd3dfea16,"Severe obesity is associated with higher in-hospital mortality in a cohort of patients with COVID-19 in the Bronx, New York","Overweight or obese",AOR=3.87,1.47,10.18,<0.05,Significant,Adjusted,Extracted
+a39af2f843aa,"Severe obesity is associated with higher in-hospital mortality in a cohort of patients with COVID-19 in the Bronx, New York","Smoking Status",OR=1.56,0.77,3.15,0.22,"Not Significant","Not Adjusted",Extracted
+b810390fc3db,"Severe obesity is associated with higher in-hospital mortality in a cohort of patients with COVID-19 in the Bronx, New York","Overweight or obese",OR=2.72,1.24,5.96,<0.05,Significant,"Not Adjusted",Extracted
+bf69c5af4edd,"Severe obesity is associated with higher in-hospital mortality in a cohort of patients with COVID-19 in the Bronx, New York","Heart Failure",,,,,,,
+c42b9ec01ea4,"Severe obesity is associated with higher in-hospital mortality in a cohort of patients with COVID-19 in the Bronx, New York","Heart Disease",,,,,,,
+cc00f512593c,"Severe obesity is associated with higher in-hospital mortality in a cohort of patients with COVID-19 in the Bronx, New York","Overweight or obese",AOR=3.19,1.42,7.17,<0.05,Significant,Adjusted,Extracted
+d88f0c0f47f8,"Severe obesity is associated with higher in-hospital mortality in a cohort of patients with COVID-19 in the Bronx, New York",Diabetes,AOR=1.26,0.58,2.73,0.56,"Not Significant",Adjusted,Extracted
+f38f2340776b,"Severe obesity is associated with higher in-hospital mortality in a cohort of patients with COVID-19 in the Bronx, New York","Heart Failure",,,,,,,
+fa13916bfbb8,"Severe obesity is associated with higher in-hospital mortality in a cohort of patients with COVID-19 in the Bronx, New York",COPD,OR=2.00,0.83,4.82,0.13,"Not Significant","Not Adjusted",Extracted
+fc618e87ae87,"Severe obesity is associated with higher in-hospital mortality in a cohort of patients with COVID-19 in the Bronx, New York","Heart Disease",,,,,,,
+af3586de4f91,"Smoking is Associated with COVID-19 Progression: A Meta-Analysis","Smoking Status","OR 2.25",1.49,3.39,,Significant,"Not Adjusted",Extracted
+0f6decfd0856,"Smoking Prevalence is Low in Symptomatic Patients Admitted for COVID-19.",Diabetes,,,,,,,
+36d50e118163,"Smoking Prevalence is Low in Symptomatic Patients Admitted for COVID-19.",Hypertension,,,,,,,
+b87b0df7edf2,"Smoking Prevalence is Low in Symptomatic Patients Admitted for COVID-19.","Heart Disease",,,,,,,
+cdceac60b5f1,"Smoking Prevalence is Low in Symptomatic Patients Admitted for COVID-19.","Smoking Status",,,,,,,
+f43e512db87f,"Smoking Prevalence is Low in Symptomatic Patients Admitted for COVID-19.","Male gender",,,,,,,
+40dc0933b1cc,"Supplementing the National Early Warning Score (NEWS2) for anticipating early deterioration among patients with COVID-19 infection","Male gender","OR 2.01",1.38,2.92,<0.01,,,
+528fe4d5ef46,"Supplementing the National Early Warning Score (NEWS2) for anticipating early deterioration among patients with COVID-19 infection",Hypertension,"OR 2.55",1.75,3.72,<0.01,,,
+533b91d34759,"Supplementing the National Early Warning Score (NEWS2) for anticipating early deterioration among patients with COVID-19 infection","Chronic kidney disease","OR 2.37",1.47,3.82,<0.01,,,
+88f1a0ade2a6,"Supplementing the National Early Warning Score (NEWS2) for anticipating early deterioration among patients with COVID-19 infection","Heart Failure","OR 2.10",1.2,3.68,0.01,,,
+a925048fe898,"Supplementing the National Early Warning Score (NEWS2) for anticipating early deterioration among patients with COVID-19 infection",COPD,"OR 2.06",1.13,3.77,0.02,,,
+b1a0ece9ad89,"Supplementing the National Early Warning Score (NEWS2) for anticipating early deterioration among patients with COVID-19 infection",Diabetes,"OR 2.01",1.35,2.98,<0.01,,,
+bc42092353eb,"Supplementing the National Early Warning Score (NEWS2) for anticipating early deterioration among patients with COVID-19 infection",Asthma,"OR 1.21",0.69,2.1,0.51,,,
+78f9c7eb96ba,"Suppressed T cell-mediated immunity in patients with COVID-19: a clinical retrospective study in Wuhan, China First Authors","Male gender","OR 2.20",1.16,4.17,0.02,Significant,"Not Adjusted",Calculated
+824cbd9a2fe1,"Suppressed T cell-mediated immunity in patients with COVID-19: a clinical retrospective study in Wuhan, China First Authors","Cardio- and cerebrovascular disease","OR 5.26",1.89,14.64,<0.01,Significant,"Not Adjusted",Calculated
+7da3a6fc4f5a,"Suspected myocardial injury in patients with COVID-19: Evidence from front-line clinical observation in Wuhan, China","Overweight or obese","OR 1.77",0.79,3.96,0.17,"Not Significant","Not Adjusted",Calculated
+f50b9c6720a2,"Symptoms and Critical Illness Among Obstetric Patients With Coronavirus Disease 2019 (COVID-19) Infection.",Asthma,"OR 3.26",1.18,9.01,0.02,Significant,"Not Adjusted",Calculated
+1367fa557629,"Systematic investigations of COVID-19 in 283 cancer patients",Cancer,OR=1.98,0.99,3.94,0.05,"Not Significant","Not Adjusted",Extracted
+5647d57700f4,"Systematic investigations of COVID-19 in 283 cancer patients","Smoking Status",OR=1.61,0.83,3.1,0.16,"Not Significant","Not Adjusted",Extracted
+962893eec2ce,"Systematic investigations of COVID-19 in 283 cancer patients","Cerebrovascular disease",OR=0.83,0.27,2.6,0.75,"Not Significant","Not Adjusted",Extracted
+a56eb76bde66,"Systematic investigations of COVID-19 in 283 cancer patients","Chronic kidney disease",OR=0.78,0.16,3.78,0.76,"Not Significant","Not Adjusted",Extracted
+c29c52ae361f,"Systematic investigations of COVID-19 in 283 cancer patients",Hypertension,OR=1.58,0.9,2.78,0.11,"Not Significant","Not Adjusted",Extracted
+d0ccb49378c2,"Systematic investigations of COVID-19 in 283 cancer patients",Diabetes,OR=0.42,0.16,1.13,0.09,"Not Significant","Not Adjusted",Extracted
+d4dc34703a58,"Systematic investigations of COVID-19 in 283 cancer patients","Chronic liver disease",OR=0.86,0.23,3.16,0.82,"Not Significant","Not Adjusted",Extracted
+d93e23ff0633,"Systematic investigations of COVID-19 in 283 cancer patients",COPD,OR=2.26,0.88,5.77,0.09,"Not Significant","Not Adjusted",Extracted
+eab1974824d7,"Systematic investigations of COVID-19 in 283 cancer patients","Heart Disease",OR=2.84,1.33,6.07,<0.05,Significant,"Not Adjusted",Extracted
+19f02814d552,"Systematic review and meta-analysis of predictive symptoms and comorbidities for severe COVID-19 infection",COPD,"OR 17.8",6.56,48.2,<0.01,Significant,"Not Adjusted",Extracted
+5187bbd8e701,"Systematic review and meta-analysis of predictive symptoms and comorbidities for severe COVID-19 infection",COPD,"OR 6.42",2.44,16.9,<0.01,Significant,"Not Adjusted",Extracted
+006aca1f149d,"The Association Between Biomarkers and Clinical Outcomes in Novel Coronavirus (COVID-19) Pneumonia in a U.S. Cohort","Chronic kidney disease",,,,,,,
+145f70cfc986,"The Association Between Biomarkers and Clinical Outcomes in Novel Coronavirus (COVID-19) Pneumonia in a U.S. Cohort","Heart Disease","OR: 1.9",1.3,3.0,,Significant,"Not Adjusted",Extracted
+86a857316a01,"The Association Between Biomarkers and Clinical Outcomes in Novel Coronavirus (COVID-19) Pneumonia in a U.S. Cohort",Hypertension,"OR: 2.4",1.2,4.5,,Significant,"Not Adjusted",Extracted
+a4745da0270f,"The Association Between Biomarkers and Clinical Outcomes in Novel Coronavirus (COVID-19) Pneumonia in a U.S. Cohort","Heart Disease","OR: 1.9",1.8,3.3,,Significant,"Not Adjusted",Extracted
+eb567b10ed0d,"The Association Between Biomarkers and Clinical Outcomes in Novel Coronavirus (COVID-19) Pneumonia in a U.S. Cohort","Male gender","OR: 2.6",1.4,4.6,,Significant,"Not Adjusted",Extracted
+242dfd4cdbfd,"The association of cardiovascular disease and other pre-existing comorbidities with COVID-19 mortality: A systematic review and meta-analysis","Chronic liver disease",,,,,,,
+2c0758f4403b,"The association of cardiovascular disease and other pre-existing comorbidities with COVID-19 mortality: A systematic review and meta-analysis",COPD,,,,,,,
+39efea6d25d4,"The association of cardiovascular disease and other pre-existing comorbidities with COVID-19 mortality: A systematic review and meta-analysis",Cancer,,,,,,,
+40bee18c252f,"The association of cardiovascular disease and other pre-existing comorbidities with COVID-19 mortality: A systematic review and meta-analysis",Hypertension,,,,,,,
+6fee3534c793,"The association of cardiovascular disease and other pre-existing comorbidities with COVID-19 mortality: A systematic review and meta-analysis","Chronic kidney disease",,,,,,,
+700221bc580a,"The association of cardiovascular disease and other pre-existing comorbidities with COVID-19 mortality: A systematic review and meta-analysis","Heart Disease",,,,,,,
+7b1020d4df19,"The association of cardiovascular disease and other pre-existing comorbidities with COVID-19 mortality: A systematic review and meta-analysis",Diabetes,,,,,,,
+8e0dd67adeff,"The association of cardiovascular disease and other pre-existing comorbidities with COVID-19 mortality: A systematic review and meta-analysis","Heart Failure",,,,,,,
+fc4347ce6237,"The association of cardiovascular disease and other pre-existing comorbidities with COVID-19 mortality: A systematic review and meta-analysis","Cerebrovascular disease",,,,,,,
+3fcfd412bf68,"The characteristics and death risk factors of 132 COVID-19 pneumonia patients with comorbidities: a retrospective single center analysis in Wuhan, China","Male gender",,,,,,,
+e3e63c57f324,"The characteristics and death risk factors of 132 COVID-19 pneumonia patients with comorbidities: a retrospective single center analysis in Wuhan, China","Heart Disease",,,,,,,
+fa0b4d325117,"The characteristics and death risk factors of 132 COVID-19 pneumonia patients with comorbidities: a retrospective single center analysis in Wuhan, China",Hypertension,,,,,,,
+1b322bc8b438,"The Characteristics of 50 Hospitalized COVID-19 Patients With and Without ARDS",COPD,"OR 1.4",0.37,5.37,0.62,"Not Significant","Not Adjusted",Calculated
+22a7fd32c3b7,"The Characteristics of 50 Hospitalized COVID-19 Patients With and Without ARDS","Overweight or obese","OR 2.82",0.84,9.51,0.09,"Not Significant","Not Adjusted",Calculated
+67d1a021886d,"The Characteristics of 50 Hospitalized COVID-19 Patients With and Without ARDS","Chronic respiratory diseases","OR 1.91",0.62,5.88,0.26,"Not Significant","Not Adjusted",Calculated
+8faff124d844,"The Characteristics of 50 Hospitalized COVID-19 Patients With and Without ARDS","Male gender","OR 0.74",0.23,2.39,0.62,"Not Significant","Not Adjusted",Calculated
+92ebd65d0282,"The Chronic Kidney Disease and Acute Kidney Injury Involvement in COVID-19 Pandemic: A Systematic Review and Meta-analysis","Chronic kidney disease","OR 3.28",2.0,5.37,,Significant,"Not Adjusted",Extracted
+6a5bb32a397c,"The clinical characteristics of COVID-19: a retrospective analysis of 104 patients from the outbreak on board the Diamond Princess cruise ship in Japan","Smoking Status","OR 2.06",0.61,6.93,0.25,"Not Significant","Not Adjusted",Calculated
+848f50526d12,"The clinical characteristics of COVID-19: a retrospective analysis of 104 patients from the outbreak on board the Diamond Princess cruise ship in Japan","Smoking Status","OR: 2.06",0.61,6.93,0.25,"Not Significant","Not Adjusted",Calculated
+dae435fd1495,"The clinical characteristics of COVID-19: a retrospective analysis of 104 patients from the outbreak on board the Diamond Princess cruise ship in Japan","Heart Disease","OR: 1.88",0.68,5.23,0.23,"Not Significant","Not Adjusted",Calculated
+cd1ff9d5de63,"The clinical course and its correlated immune status in COVID-19 pneumonia","Male gender","OR: 2.56",1.41,4.65,<0.01,Significant,"Not Adjusted",Calculated
+d03c9c5ca2d8,"The clinical course and its correlated immune status in COVID-19 pneumonia","Endocrine diseases","OR: 2.66",1.04,6.76,0.04,Significant,"Not Adjusted",Calculated
+437713991671,"The COVID-19 Pandemic: a Call to Action to Identify and Address Racial and Ethnic Disparities","Ethnicity_ Hispanic vs",,,,,,,
+50cb787f5507,"The COVID-19 Pandemic: a Call to Action to Identify and Address Racial and Ethnic Disparities","Race_ Black vs",,,,,,,
+801ecd9e65fd,"The impact of COPD and smoking history on the severity of COVIDâ€19: A systemic review and metaâ€analysis",COPD,"OR: 4.38",2.34,8.2,0.08,"Not Significant","Not Adjusted",Extracted
+cefe3c4d6c5d,"The relationship of COVID-19 severity with cardiovascular disease and its traditional risk factors: A systematic review and meta-analysis","Smoking Status","RR 1.77",0.78,4.02,,"Not Significant","Not Adjusted",Extracted
+29c3edaf0777,"The role of comorbidities and clinical predictors of severe disease in COVID-19: a systematic review and meta-analysis Emails","Heart Disease","OR 2.44",1.64,3.63,,Significant,"Not Adjusted",Extracted
+2f1c0f8b6029,"The role of comorbidities and clinical predictors of severe disease in COVID-19: a systematic review and meta-analysis Emails",COPD,"OR 4.07",2.3,7.22,,Significant,"Not Adjusted",Extracted
+47249053623b,"The role of comorbidities and clinical predictors of severe disease in COVID-19: a systematic review and meta-analysis Emails","Cerebrovascular disease","OR 3.94",0.88,17.59,,"Not Significant","Not Adjusted",Extracted
+4c739debc1b2,"The role of comorbidities and clinical predictors of severe disease in COVID-19: a systematic review and meta-analysis Emails",Hypertension,"OR 2.35",1.83,3.02,,Significant,"Not Adjusted",Extracted
+67ed0debd94c,"The role of comorbidities and clinical predictors of severe disease in COVID-19: a systematic review and meta-analysis Emails","Immune system disorders","OR 1.08",0.18,6.26,,"Not Significant","Not Adjusted",Extracted
+7a35a967b7cd,"The role of comorbidities and clinical predictors of severe disease in COVID-19: a systematic review and meta-analysis Emails","Chronic liver disease","OR 1.25",0.35,4.41,,"Not Significant","Not Adjusted",Extracted
+9552714affdb,"The role of comorbidities and clinical predictors of severe disease in COVID-19: a systematic review and meta-analysis Emails","Chronic kidney disease","OR 6.38",3.23,12.59,,Significant,"Not Adjusted",Extracted
+d12a7aaf7c95,"The role of comorbidities and clinical predictors of severe disease in COVID-19: a systematic review and meta-analysis Emails",Diabetes,"OR 3.54",1.79,7.01,,Significant,"Not Adjusted",Extracted
+04ae29def9b3,"The Use of Adjuvant Therapy in Preventing Progression to Severe Pneumonia in Patients with Coronavirus Disease 2019: A Multicenter Data Analysis","Male gender","OR 1.06",1.04,1.08,<0.01,Significant,"Not Adjusted",Extracted
+47fa6bb770e1,"The Use of Adjuvant Therapy in Preventing Progression to Severe Pneumonia in Patients with Coronavirus Disease 2019: A Multicenter Data Analysis",COPD,"OR: 10.46",3.76,29.1,<0.01,Significant,"Not Adjusted",Calculated
+5844a43e850a,"The Use of Adjuvant Therapy in Preventing Progression to Severe Pneumonia in Patients with Coronavirus Disease 2019: A Multicenter Data Analysis","Male gender","AOR 1.05",1.03,1.07,<0.01,Significant,Adjusted,Extracted
+cf7e19d0a42b,"The Use of Adjuvant Therapy in Preventing Progression to Severe Pneumonia in Patients with Coronavirus Disease 2019: A Multicenter Data Analysis","Heart Disease","OR: 2.85",1.08,7.56,0.04,Significant,"Not Adjusted",Extracted
+29edfdeea007,"Tobacco Induced Diseases COVID-19 and smoking: A systematic review of the evidence","Smoking Status","RR 2.4",1.43,4.04,,Significant,"Not Adjusted",Extracted
+f238a57f51ad,"Tobacco Induced Diseases COVID-19 and smoking: A systematic review of the evidence","Smoking Status","RR 1.4",0.98,2.0,,"Not Significant","Not Adjusted",Extracted
+0c75979372a8,"Type 1 and Type 2 diabetes and COVID-19 related mortality in England: a whole population study","Cerebrovascular disease",,,,,,,
+2ecda69bc764,"Type 1 and Type 2 diabetes and COVID-19 related mortality in England: a whole population study",Diabetes,,,,,,,
+82a44926ff03,"Type 1 and Type 2 diabetes and COVID-19 related mortality in England: a whole population study","Race_ Black vs",,,,,,,
+ce1acb0fdef5,"Type 1 and Type 2 diabetes and COVID-19 related mortality in England: a whole population study","Race_ Other vs",,,,,,,
+d5389dfedc62,"Type 1 and Type 2 diabetes and COVID-19 related mortality in England: a whole population study","Heart Disease",,,,,,,
+f7170a539a85,"Type 1 and Type 2 diabetes and COVID-19 related mortality in England: a whole population study","Race_ Asian vs",,,,,,,
+fed2d36e047c,"Type 1 and Type 2 diabetes and COVID-19 related mortality in England: a whole population study","Heart Failure",,,,,,,
+e21b64f5db1a,"Use of High Flow Nasal Therapy to Treat Moderate to Severe Hypoxemic Respiratory Failure in COVID-19","Chronic kidney disease","OR 1.72",0.57,5.2,0.34,"Not Significant","Not Adjusted",Calculated
+38e42de44ffd,"Use of High Flow Nasal Therapy to Treat Moderate to Severe Hypoxemic Respiratory Failure in COVID-20","Heart Disease","OR 1.54",0.6,3.96,0.37,"Not Significant","Not Adjusted",Calculated
+9f2c4c870c5d,"Use of High Flow Nasal Therapy to Treat Moderate to Severe Hypoxemic Respiratory Failure in COVID-21","Chronic respiratory diseases","OR 1.79",0.76,4.24,0.19,"Not Significant","Not Adjusted",Calculated
+691d5f6f2199,"Use of High Flow Nasal Therapy to Treat Moderate to Severe Hypoxemic Respiratory Failure in COVID-22",Hypertension,"OR 2.21",0.97,4.99,0.06,"Not Significant","Not Adjusted",Calculated
+6fe835e2f100,"Use of High Flow Nasal Therapy to Treat Moderate to Severe Hypoxemic Respiratory Failure in COVID-23",Diabetes,"OR 0.92",0.39,2.16,0.84,"Not Significant","Not Adjusted",Calculated
+8c956a5c73a9,"Use of High Flow Nasal Therapy to Treat Moderate to Severe Hypoxemic Respiratory Failure in COVID-24","Male gender","OR 1.27",0.57,2.86,0.56,"Not Significant","Not Adjusted",Calculated
+7cc85b88d401,"Venous and arterial thromboembolic complications in COVID-19 patients admitted to an academic hospital in Milan, Italy",Diabetes,"OR 0.71",0.35,1.44,0.35,,,
+8ad9f687e4f1,"Venous and arterial thromboembolic complications in COVID-19 patients admitted to an academic hospital in Milan, Italy",Hypertension,"OR 0.87",0.5,1.51,0.62,,,
+c3a3984ca687,"Well-aerated Lung on Admitting Chest CT to Predict Adverse Outcome in COVID-19 Pneumonia","Chronic respiratory diseases","OR 1.56",0.79,3.1,0.2,,,
+3e3e883db891,"Well-aerated Lung on Admitting Chest CT to Predict Adverse Outcome in COVID-19 Pneumonia.","Neurological disorders","OR 2.00",1.0,4.0,0.05,,,
+502b38112d9f,"Well-aerated Lung on Admitting Chest CT to Predict Adverse Outcome in COVID-19 Pneumonia.","Heart Disease","AOR 3.7",1.9,7.3,<0.01,,,
+6719df479738,"Well-aerated Lung on Admitting Chest CT to Predict Adverse Outcome in COVID-19 Pneumonia.",Cancer,"OR 3.55",1.62,7.79,0,,,
+987b79139411,"Well-aerated Lung on Admitting Chest CT to Predict Adverse Outcome in COVID-19 Pneumonia.","Male gender","OR 0.91",0.51,1.65,0.76,,,
+a1aa49a5163e,"Well-aerated Lung on Admitting Chest CT to Predict Adverse Outcome in COVID-19 Pneumonia.","Heart Disease","OR 3.8",2.2,6.7,<0.01,,,
+c5a0d190815f,"Well-aerated Lung on Admitting Chest CT to Predict Adverse Outcome in COVID-19 Pneumonia.","Chronic kidney disease","OR 5.2",1.4,18.9,0.01,,,
+ca408c5eff4d,"Well-aerated Lung on Admitting Chest CT to Predict Adverse Outcome in COVID-19 Pneumonia.","Smoking Status","OR 2.52",1.01,6.28,0.05,,,
+a46b7fc4759d,"When a nephrology ward becomes a COVID-19 ward: the Cremona experience","Chronic kidney disease",,,,,,,
