@@ -1,0 +1,4 @@
+host: "localhost"
+database: "COVID_19"
+user: "root"
+password: "root"
